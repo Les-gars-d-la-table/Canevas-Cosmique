@@ -36,8 +36,9 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 2
 
 ## Semaine 1
-
-
+Cette semaine, nous avons fait une grosse réunion d'équipe pour clarifier quelques points de notre projet.
+!(réunion avec l'équipe)[medias
+/reunion_semaine_1.png]
 
 
 
