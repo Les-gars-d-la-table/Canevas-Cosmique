@@ -72,13 +72,13 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 ### Schéma de branchement 
 
-![schema_branchement](medias/schema_branchement_ver2.png)
+![schema_branchement](medias/schema_branchement_ver3.png)
 
 ## Matériel de scénographie requis
 
 * Table
     * Matériaux: Bois, Aluminium, Acrylique, Spandex
-    * dimensions de la table n'ont pas encore été déterminées
+    * 48" x 36", 30" de hauteur
 * grand studio avec les murs amovibles
 
 ## Équipements requis
@@ -89,33 +89,27 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
     * 1 carte de son
 
 * Vidéo
-    * 4 projecteurs vidéo shortrow
-    * 3 système d'acrochage
+    * 2 projecteurs vidéo shortrow
+    * 1 système d'acrochage
     * 1 caméra
-
-* Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
 
 * Électricité
     * 4 cordon IEC (pour l'alimentation des haut-parleurs)
     * 5 multiprise
 
 * Réseau
-    * Switch poe 5 ports
-    * 10 Cables Ethernet
-    * 8 Cables HDMI
-    * 3 Receivers HDMI
-    * 3 Sender HDMI
+    * Switch poe 2 ports
+    * 5 Cables Ethernet
+    * 2 Cables HDMI
+    * 1 Receivers HDMI
+    * 1 Sender HDMI
     * 1 Capture card
 
 * Ordinateur
     * 1 ordinateur
 
 * micro ordinateur
-    * 4 raspberry pi    
+    * 2 raspberry pi    
     
 
 ## Logiciels requis
@@ -136,7 +130,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 * Guillaume Arseneault.
 * Thomas Ouellet Fredericks
 * TTP
-* Possiblement un soudeur
+* Un soudeur
 
 ## Ressources spatiales requises
 
