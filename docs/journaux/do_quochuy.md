@@ -1,4 +1,4 @@
-# Journal de "Participant 4"
+# Journal de Quoc Huy Do
 ![portrait du participant ](../web/medias/participants/D.png)
 
 * [Semaine 1](#semaine-1)
