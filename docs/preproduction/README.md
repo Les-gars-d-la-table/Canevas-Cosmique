@@ -144,8 +144,8 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 | Contrainte ou problème potentiel                     | Solution envisagée                                    | Commentaires                                                                                 |
 |------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Nous n'avons pas testé la caméra avec ReacTIVision   | Tester différentes caméras. | Dans le pire des Cas, c'est toujours possible d'utiliser une webcam, une kinect, ou encore d'utiliser la librairie javascript que guillaume a trouvé|
-| Notre ordinateur doit pouvoir communiquer avec trop de choses en HDMI ou DisplayPort | Expérimenter des façons d'éviter d'avoir trop de choses connectées à l'ordinateur à la fois.| Travailler avec Guillaume pour faire en sorte que NDI fonctionne sur PI, cela économiserait un port.|
-|Nous ne pouvons pas faire la table nous-même. | Nous connaissons des soudeurs qui pourraient faire les parties métaliques pour nous.| Si ce n'est pas possible, on pourrait faire la table en bois complètement nous-mêmes. |
+| Notre ordinateur doit pouvoir communiquer avec trop de choses en HDMI ou DisplayPort | Expérimenter des façons d'éviter d'avoir trop de choses connectées à l'ordinateur à la fois.| Problème réglé, maintenant nous n'avons qu'une seule projection|
+|Nous ne pouvons pas faire la table nous-même. | Nous connaissons des soudeurs qui pourraient faire les parties métaliques pour nous.| Notre soudeur a confirmé qu'il allait pouvoir travailler sur la table a commencé à créer les plans. |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
