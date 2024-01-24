@@ -42,7 +42,7 @@ Nous avons retravailler notre travaille pou qu'il soit plus cohérent et cela no
 
 
 ### Défis pour la prochaine semaine
-Pour la semaine prochaine j'aimerais faire des testes sonores et composer quelques échantillons sonores pour les sons d'activations et d'ambiance.
+Pour la semaine prochaine, j'aimerais faire des testes sonores et composer quelques échantillons sonores pour les sons d'activations et d'ambiance.
 
 ---
 ## Semaine 2
