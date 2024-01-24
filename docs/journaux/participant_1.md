@@ -18,16 +18,12 @@
 - Schémas de ce qui apparaît sur la table et ce qui apparaît sur le projecteur.
 
 ###
-![ici est une description de l'image](medias/jacobMedia/tableView.png)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image](medias/jacobMedia/ViewTable.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
