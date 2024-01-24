@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- début de la conception des statuettes
+- Début de la conception des statuettes
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/mikaelMedia/debut_statuettes.PNG)
 
@@ -27,7 +27,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Parce que les statuettes sont deja fini pour le concept de base en uniquement 2 jours.
+Parce que les statuettes sont déjà fini pour le concept de base en uniquement 2 jours.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A
@@ -46,7 +46,7 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-réussir à faire des modèles adaptables à l'impression 3D.
+Réussir à faire des modèles adaptables à l'impression 3D.
 
 ---
 ## Semaine 2
