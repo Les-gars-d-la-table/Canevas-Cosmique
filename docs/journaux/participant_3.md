@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- J'ai réaliser des schémas des activations visuelles des statues. Lorsque une statue est posée sur la table, une zone colorée va entourer la base de la statue pour montrer à l'utilisateur que la statue a belle et bien été activer.  
+- J'ai réalisé des schémas des activations visuelles des statues. Lorsqu'une statue est posée sur la table, une zone colorée va entourer la base de la statue pour montrer à l'utilisateur que la statue a bel et bien été activé.  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/jeremyMedia/schema-activation-statue.png)
@@ -30,7 +30,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Nous avons retravailler notre travaille pou qu'il soit plus cohérent et cela nous a donc permis de trouver plus d'idées au niveau visuel de notre installation.
+Nous avons retravaillé notre travail pou qu'il soit plus cohérent et cela nous a donc permis de trouver plus d'idées au niveau visuel de notre installation.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -42,7 +42,7 @@ Nous avons retravailler notre travaille pou qu'il soit plus cohérent et cela no
 
 
 ### Défis pour la prochaine semaine
-Pour la semaine prochaine, j'aimerais faire des testes sonores et composer quelques échantillons sonores pour les sons d'activations et d'ambiance.
+Pour la semaine prochaine, j'aimerais faire des tests sonores et composer quelques échantillons sonores pour les sons d'activations et d'ambiance.
 
 ---
 ## Semaine 2
