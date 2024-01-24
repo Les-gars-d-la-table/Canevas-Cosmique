@@ -18,7 +18,7 @@
 - Schémas de ce qui apparaît sur la table et ce qui apparaît sur le projecteur.
 
 ###
-![ici est une description de l'image](medias/motionCapture.jpg)
+![ici est une description de l'image](medias/jacobMedia/tableView.png)
 ou
 ![ici est une description de l'image](medias/console.jpg)
 ou
