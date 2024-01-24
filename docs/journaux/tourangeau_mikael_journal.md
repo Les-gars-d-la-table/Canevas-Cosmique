@@ -1,4 +1,4 @@
-# Journal de "Participant 5"
+# Journal de Mikaël Tourangeau
 ![portrait du participant ](../web/medias/participants/E.png)
 
 * [Semaine 1](#semaine-1)
