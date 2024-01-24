@@ -1,5 +1,4 @@
 # Préproduction
-> C'est ici qu'on dépose les éléments de la préproduction.
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
@@ -28,79 +27,71 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![cartographie](medias/brainstorm.png)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant à interagir avec, et qui pourrait intéresser n'importe qui, notre projet donne beaucoup de pouvoir à l'intégrateur, et c'est ce qui d'après nous le rend différent, l'intégrateur peut créer des combinaisons que nous-mêmes n'avons pas faites.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+L'utilisateur interagit avec en déplaçant une statuette avec un *fiducial* en bas pour faire apparaître et bouger des planètes et/ou d'autres objets astronomiques autour de l'orbite d'un soleil, représenté par la table elle-même. Essentiellement, on construit notre propre système solaire!
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+![Unity Moodboard](medias/moodboardUnity.png)
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
 
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
+## Scénario, scénarimage ou document audio/visuel 
+![scenarimage](medias/scenarimage.pdf)
 
-## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
+-  statuettes (pour les utilisateurs-trices)
+-  sons
+-  paysages sonores
+-  vfx d'animation 3D
+-  source lumineuse
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+
+Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et couleurs qui pourront se mélanger entre eux.
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+
+![Sketch Table](medias/table/table_sketch.jpg)
+> Schéma de la table déssiné par notre soudeur
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![cartographie](medias/plantationGrandStudio.png)
+![cartographie](medias/plantationTable.png)
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![schema_branchement](medias/schema_branchement_ver2.png)
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* Table
+    * Matériaux: Bois, Aluminium, Acrylique, Spandex
+    * dimensions de la table n'ont pas encore été déterminées
+* grand studio avec les murs amovibles
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 4 haut-parleurs
+    * 4 fils XLR 3 conducteurs de 15' (M->F)
+    * 1 carte de son
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 4 projecteurs vidéo shortrow
+    * 3 système d'acrochage
+    * 1 caméra
 
 * Lumière
     * 4 lumière LED RGBAW DMX
@@ -109,134 +100,135 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface DMX USB
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 5 multiprise
 
 * Réseau
-    * 4 fils cat6a de 15"
     * Switch poe 5 ports
+    * 10 Cables Ethernet
+    * 8 Cables HDMI
+    * 3 Receivers HDMI
+    * 3 Sender HDMI
+    * 1 Capture card
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 ordinateur
+
+* micro ordinateur
+    * 4 raspberry pi    
     
-* Autre
-    * Tout autre élément pertinent
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
+* [Cycling 74' Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
+* [Autodesk Maya](https://www.autodesk.com/ca-fr)
+* [HyperHDR](https://github.com/awawa-dev/HyperHDR)
+* [VCV Rack](https://vcvrack.com/)
+* [Cardinal](https://cardinal.kx.studio/)
+* [OBS](https://obsproject.com)
+* [reacTIVision](https://reactivision.sourceforge.net)
+* [Sonobus](https://www.sonobus.net/)
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
-* TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Guillaume Arseneault.
+* Thomas Ouellet Fredericks
+* TTP
+* Possiblement un soudeur
 
-## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
+## Ressources spatiales requises
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
-
-* Petit studio
-    * Enregsitrement audio
+  * Espace avec faux murs pour projection autours de la table.
+* Salle des matrices
+  * Accès à plusieurs ports ethernet, possibilité de pouvoir avoir notre ordinateur dans cette salle. Possiblement également l'espace de rangement pour les statues de remplacement.
 
 ## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
-| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
-|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Contrainte ou problème potentiel                     | Solution envisagée                                    | Commentaires                                                                                 |
+|------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Nous n'avons pas testé la caméra avec ReacTIVision    | Tester différentes caméras. | Dans le pire des Cas, c'est toujours possible d'utiliser une webcam, ou encore d'utiliser la librairie javascript que guillaume a trouvé|
+| Notre ordinateur doit pouvoir communiquer avec trop de choses en HDMI ou DisplayPort | Expérimenter des façons d'éviter d'avoir trop de choses connectées à l'ordinateur à la fois.| Travailler avec Guillaume pour faire en sorte que NDI fonctionne sur PI, cela économiserait un port.|
+|Nous ne pouvons pas faire la table nous-même. | Nous connaissons des soudeurs qui pourraient faire les parties métaliques pour nous.| Si ce n'est pas possible, on pourrait faire la table en bois complètement nous-mêmes. |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
 
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
+Matériel Requis: 
 
+- 2 Plaques d'acrylique clair de 24"x36" avec 1/4 de pouce d'épaisseur: [Lien Vers Produit](https://www.homedepot.com/p/Falken-Design-24-in-x-36-in-x-1-4-in-Thick-Acrylic-Clear-Sheet-Falken-Design-ACRYLIC-CL-1-4-2436/308669666)
+<br>
+
+Prix: 103.34$
+
+<br>
+
+- Papier calque: [Lien Vers Produit](https://hachem.com/fr/rouleau-de-papier-calque-bienfang-24-x-20-verges-079946037180.html)
+
+Prix: 15.70$
+
+<br>
+
+- Environ 40 statuettes
+
+prix: +/- 150$
+
+<br>
+
+- Spandex: [Lien Vers Produit](https://fabricville.com/products/ima-gine-cotton-spandex-solid-black?_pos=5&_sid=7e2a5d5e5&_ss=r)
+
+Prix: 17.49$/m
+
+<br>
+
+Total: +/- 287$ (Sans Taxes)
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Maquette de la table terminée : Lundi 19 février
+- Tout terminer les assets : Jeudi 29 Février
+- Fonctionnement total de tous les logiciels entre eux : Vendredi 1 mars
+- Table terminée : Vendredi 9 mars
+- Projet final test : Lundi 11 mars
+- Présentation des projets devant public : Lundi 18 mars
 
 ## Liste des tâches à réaliser
-Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+Visualisation des tâches à réaliser dans GitHub selon la méthode kanban:  
+https://github.com/orgs/Les-gars-d-la-table/projects/1/views/2
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/Les-gars-d-la-table/preproduction/issues
 
-## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
+## Rôles et responsabilités des membres de l'équipe 
 
-**Étudiant E**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
+**Mikaël Tourangeau**
+- Modélisation et impression 3D des statuettes. 
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Étudiant D**
+**Étienne Charron**
 - Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
+- Construction de la table
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-**Étudiant C**
+**Quoc huy Do**
+- S'assure du bon fonctionnement de Unity;
+- Coordination artistique;
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Étudiant B**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
 - Programmation du module Unity d'effets visuels et intégration dans Max.
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+**Jérémy Cholette**
+- Création des paysages sonores
+- Installation de l'équipement dans l'espace physique.
 
-**Étudiant A**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+**Jacob Alarie-Brousseau**
+- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition des rôles et des responsabilités des membres de l'équipe);
+- Programmation du module Max en lien avec le fonctionnement de la détection des statuettes et de leur position;
+- Construction de la table
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
-
-Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- **lundi "9:30"h (1h)** : Rencontre de suivi de projet.
+- **Vendredi "17h" (1h)** : Rencontre du suivi de ce qu'on a réaliser pendant la semaine
