@@ -1,4 +1,4 @@
-# Journal de "Participant 2"
+# Journal de Étienne Charron
 ![portrait du participant ](../web/medias/participants/B.png)
 
 * [Semaine 1](#semaine-1)
