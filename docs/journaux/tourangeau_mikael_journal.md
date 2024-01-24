@@ -27,7 +27,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Parce que les statuettes sont deja fini pour le concept de base en uniquement 2 jours
+Parce que les statuettes sont deja fini pour le concept de base en uniquement 2 jours.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A
@@ -40,13 +40,13 @@ N/A
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+N/A
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+réussir à faire des modèles adaptables à l'impression 3D.
 
 ---
 ## Semaine 2
