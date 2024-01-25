@@ -16,7 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - modifications du github
-- meeting avec l'équipe pour clairifier certains points du projet
+- design de la couverture du projet pour le site web montmorency
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -33,10 +33,10 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Étant donné que c'est le tout début, j'ai un peu de difficulté à me décider sur ce que je devrais faire donc j'avance moins rapidement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Me faire un horaire personnel en lien avec ce que je devrais faire chaque jour pour ne pas perdre du temps à chercher quoi faire.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -45,14 +45,8 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
-
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Je planifie faire la banière et commencer unity la semaine prochaine.
 
 ---
 ## Semaine 2
