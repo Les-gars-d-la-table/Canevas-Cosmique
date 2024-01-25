@@ -15,16 +15,14 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- modifications du github
-- design de la couverture du projet pour le site web montmorency
+- modifications du github.
+- design de la couverture du projet pour le site web du projet final.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![premier design de couverture](medias/etienneMedia/export01.png)
+![deuxième design de couverture](medias/etienneMedia/export02.png)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
