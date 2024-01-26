@@ -41,5 +41,7 @@ Cette semaine, nous avons fait une grosse réunion d'équipe pour clarifier quel
 ![réunion avec l'équipe](medias/reunion_semaine_1.png)
 
 
+Nous avons également fait les tests qui manquaient à faire, c'est-à-dire le test de l'apparition de l'image sur papier calque si un projecteur est présent derrière elle, aisni que la caméra infra-roughe pour détecter les fiducials présents sur les statuettes au travers du papier calque, nous pouvons maintenant réelement commencer à travailler sur notre projet.
+
 
 
