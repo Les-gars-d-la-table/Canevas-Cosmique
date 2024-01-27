@@ -43,13 +43,23 @@ L'utilisateur interagit avec en déplaçant une statuette avec un *fiducial* en 
 ## Scénario, scénarimage ou document audio/visuel
 
 <p align="center">
-<img align="center" src='media/img/boite_2.jpg' width='600'>
+<img align="center" src='medias/scenarimage_1.png' width='500'>
 
-<img align="center" src='media/img/boite_1.jpg' width='600'>
+<img align="center" src='medias/scenarimage_2.png' width='500'>
+
+<img align="center" src='medias/scenarimage_3.png' width='500'>
+
+<img align="center" src='medias/scenarimage_4.png' width='500'>
+
+<img align="center" src='medias/scenarimage_5.png' width='500'>
+
+<img align="center" src='medias/scenarimage_6.png' width='500'>
+
+<img align="center" src='medias/scenarimage_7.png' width='500'>
 </p>
 
 
-![scenarimage](medias/scenarimage.pdf)
+
 
 
 # Contenu multimédia à intégrer
