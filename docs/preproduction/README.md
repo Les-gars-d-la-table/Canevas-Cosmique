@@ -40,7 +40,15 @@ L'utilisateur interagit avec en déplaçant une statuette avec un *fiducial* en 
 ![Unity Moodboard](medias/moodboardUnity.png)
 
 
-## Scénario, scénarimage ou document audio/visuel 
+## Scénario, scénarimage ou document audio/visuel
+
+<p align="center">
+<img align="center" src='media/img/boite_2.jpg' width='600'>
+
+<img align="center" src='media/img/boite_1.jpg' width='600'>
+</p>
+
+
 ![scenarimage](medias/scenarimage.pdf)
 
 
