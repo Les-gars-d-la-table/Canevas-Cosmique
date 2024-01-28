@@ -33,6 +33,7 @@ Au cours de la semaine, nous avons solidifié nos idées sur le projet, beaucoup
 - Second Soleil
 <br>
 Les effets des statues sont celles-ci:
+
 #### Trou Noir
 **Type**: Déplacement
 <br>
