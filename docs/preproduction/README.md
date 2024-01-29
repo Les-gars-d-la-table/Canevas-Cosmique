@@ -136,8 +136,6 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 * [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 * [Autodesk Maya](https://www.autodesk.com/ca-fr)
-* [HyperHDR](https://github.com/awawa-dev/HyperHDR)
-* [VCV Rack](https://vcvrack.com/)
 * [Cardinal](https://cardinal.kx.studio/)
 * [OBS](https://obsproject.com)
 * [reacTIVision](https://reactivision.sourceforge.net)
