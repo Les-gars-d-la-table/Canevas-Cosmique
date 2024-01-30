@@ -223,7 +223,7 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 - Programmation du module Max d'effet et de contrôle audio;
 - Construction de la table
 
-**Quoc huy Do**
+**Quoc Huy Do**
 - S'assure du bon fonctionnement de Unity;
 - Coordination artistique;
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
