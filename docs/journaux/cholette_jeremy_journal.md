@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- J'ai réalisé des schémas des activations visuelles des statues. Lorsqu'une statue est posée sur la table, une zone colorée va entourer la base de la statue pour montrer à l'utilisateur que la statue a bel et bien été activé.  
+- J'ai réalisé des schémas des activations visuelles des statues. Lorsqu'une statue est posée sur la table, une zone colorée va entourer la base de la statue pour montrer à l'utilisateur que la statue a bel et bien été activé. J'ai aussi refait le schéma de plantation de la préproduction. De plus, j'ai effectuer des tests avec Jacob pour voir si la caméra pouvait détecter nos statuette à travers les deux plaques d'acryliques et la feuille de papier calque.  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/jeremyMedia/schema-activation-statue.png)
