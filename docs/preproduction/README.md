@@ -31,10 +31,10 @@
 ![cartographie](medias/brainstorm.png)
 
 ## Intention de départ
-L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant à interagir avec, et qui pourrait intéresser n'importe qui, notre projet donne beaucoup de pouvoir à l'intégrateur, et c'est ce qui d'après nous le rend différent, l'intégrateur peut créer des combinaisons que nous-mêmes n'avons pas faites.
+Donner le pouvoir à l'intéracteur de jouer avec un système solaire qui agit comme un bac à sable en utilisant divers outils.
 
 ## Synopsis
-L'utilisateur interagit avec en déplaçant une statuette avec un *fiducial* en bas pour faire apparaître et bouger des planètes et/ou d'autres objets astronomiques autour de l'orbite d'un soleil, représenté par la table elle-même. Essentiellement, on construit notre propre système solaire!
+L'utilisateur interagit en déplaçant une statuette avec un fiducial, ceux-ci représentant les divers outils de manipulations disponible. Par exemple, on peux utiliser un trou noir pour bouger des planètes et/ou d'autres objets astronomiques et causer d'autres phénomènes astronomiques comme des éruptions solaires. Essentiellement, le système solaire est un bac à sable où on peux créer et démolir les planètes!
 
 ## Tableau d'ambiance (*moodboard*)
 ![Unity Moodboard](medias/moodboardUnity.png)
