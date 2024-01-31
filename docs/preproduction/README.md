@@ -197,6 +197,7 @@ Total: +/- 287$ (Sans Taxes)
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 
 *Dates importantes :*
+- Remise de la vidéo d'intention: Lundi 5 Février
 - Maquette de la table terminée : Lundi 19 février
 - Tout terminer les assets : Jeudi 29 Février
 - Fonctionnement total de tous les logiciels entre eux : Vendredi 1 mars
@@ -233,7 +234,8 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 
 **Jacob Alarie-Brousseau**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition des rôles et des responsabilités des membres de l'équipe);
-- Programmation du module Max en lien avec le fonctionnement de la détection des statuettes et de leur position;
+- Programmation de la détection des marqueurs sur TouchDesigner.
+- Communication entre les plusieurs logiciels utilisés par OCS et NDI
 - Construction de la table
 
 ## Moments des rencontres d'équipe
