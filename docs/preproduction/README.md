@@ -28,7 +28,7 @@
 # Intention ou concept
 ## Cartographie
 
-![cartographie](medias/brainstorm.png)
+![cartographie](medias/brainstormVer2.png)
 
 ## Intention de départ
 Donner le pouvoir à l'intéracteur de jouer avec un système solaire qui agit comme un bac à sable en utilisant divers outils.
