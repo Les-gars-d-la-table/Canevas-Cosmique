@@ -40,15 +40,15 @@ Nous avons maintenant une idée solide de ce que le projet va être, le rôle de
 Nous n'avons pas encore reçu les plans complets de la table.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Communiquer avec notre soudeur pour finaliser
+Communiquer avec notre soudeur pour finaliser les plans.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+S'assurer que tous nos logiciels reçoivent les informations dont ils ont besoin.
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+Ma semaine a commencée d'une manière relativement inatendue, j'ai dû remplacer un des logiciels au coeur de notre projet (reactivision), cela m'a mené à devoir écrire mes premières lignes de Python dans Touch Designer afin de créer un détecteur de marqueur, il est maintenant plus ou moins fonctionnel, je dois faire plus de tests dessus. Je sais par contre que je peux recevoir les informations dans unity, c'est une début, il faut juste que j'arrive à les séparer de la même manière que je les séparais dans Max. J'ai suivi un tutoriel pour la détection des marqueurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -57,31 +57,31 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai dû m'habituer à la syntaxe assez unique du Python et comprendre à peu près comment touchDesigner fonctionne sur le coup, cette semaine je prévoyais majoritairement faire communiquer nos logiciels, mais comme quelques de nos logiciels centraux ont changés, je n'ai pas encore eu le temps de me pencher là-dessus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Plus d'heures de travail.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Comme mentionné plusieurs fois maintenant, j'ai dû remplacer quelques logiciels que j'utilisais, ce qui est un contre-temps plutôt majeur, mais je pense que le progrès accompli par mes collègues contre-balance correctement. Les plans de la table devraient bientôt être terminés et on devrai avoir quelque-chose pour tenir le projecteur en place d'ici la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Plus d'heures de travail, demander de l'assistance de mes collègues pour mes tâches.
 
 ### Défis pour la prochaine semaine
-
+Détection complètement fonctionnelle sur touchDesigner, informations envoyées vers unity de la manière dont j'aimerai les recevoir.
 
 ---
 ## Semaine 3 
