@@ -52,10 +52,10 @@ Travailler sur la scène Unity et vérifier que les fiducials fonctionnent avec 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+J'ai élaboré les VFX dans Unity et continué à développer le style visuel avec Mik et Jay. Nous avons décidé de rester avec le style low poly pour les modèles 3D et de "baisser" la qualité des particules pour que ça ne fais pas trop de différence en contraste avec les modèles.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![pixelated hole (LOL!!!)](medias/quocHuyMedia/S2_blackHoleGif.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
