@@ -102,44 +102,42 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 ## Équipements requis
 
 * Audio
-    * 4 haut-parleurs
+    * 2 haut-parleurs
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * 1 carte de son
 
 * Vidéo
     * 2 projecteurs vidéo shortrow
-    * 1 système d'acrochage
-    * 1 caméra
+    * 3 système d'acrochage
+    * 1 caméra infrarouge
 
 * Électricité
-    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 5 multiprise
+    * 2 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 2 multiprise
 
 * Réseau
     * Switch poe 2 ports
     * 5 Cables Ethernet
     * 2 Cables HDMI
-    * 1 Receivers HDMI
-    * 1 Sender HDMI
+    * 2 Receivers HDMI
+    * 2 Sender HDMI
     * 1 Capture card
 
 * Ordinateur
     * 1 ordinateur
 
 * micro ordinateur
-    * 2 raspberry pi    
+    * 1 raspberry pi    
     
 
 ## Logiciels requis
 
-* [Cycling 74' Max 8](https://cycling74.com/products/max)   
+* [Touch Designer](https://derivative.ca/)
 * [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 * [Autodesk Maya](https://www.autodesk.com/ca-fr)
-* [Cardinal](https://cardinal.kx.studio/)
+* [VCV Rack](https://vcvrack.com/)
 * [OBS](https://obsproject.com)
-* [reacTIVision](https://reactivision.sourceforge.net)
-* [Sonobus](https://www.sonobus.net/)
 
 ## Ressources humaines requises
 
@@ -159,7 +157,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 | Contrainte ou problème potentiel                     | Solution envisagée                                    | Commentaires                                                                                 |
 |------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons pas testé la caméra avec ReacTIVision   | Tester différentes caméras. | Dans le pire des Cas, c'est toujours possible d'utiliser une webcam, une kinect, ou encore d'utiliser la librairie javascript que guillaume a trouvé|
+| Nous n'avons pas testé la caméra avec ReacTIVision   | Tester différentes caméras. | ReactIVision ne fait maintenant plus parti de notre projet. Nous l'avons remplacé par Touch Designer|
 | Notre ordinateur doit pouvoir communiquer avec trop de choses en HDMI ou DisplayPort | Expérimenter des façons d'éviter d'avoir trop de choses connectées à l'ordinateur à la fois.| Problème réglé, maintenant nous n'avons qu'une seule projection|
 |Nous ne pouvons pas faire la table nous-même. | Nous connaissons des soudeurs qui pourraient faire les parties métaliques pour nous.| Notre soudeur a confirmé qu'il allait pouvoir travailler sur la table a commencé à créer les plans. |
 
