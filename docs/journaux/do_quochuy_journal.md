@@ -1,5 +1,5 @@
 # Journal de Quoc Huy Do
-![portrait du participant ](../web/medias/participants/D.png)
+![portrait du participant ](../web/medias/participants/pfp_joe.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
