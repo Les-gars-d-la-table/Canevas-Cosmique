@@ -157,7 +157,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 | Contrainte ou problème potentiel                     | Solution envisagée                                    | Commentaires                                                                                 |
 |------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons pas testé la caméra avec ReacTIVision   | Tester différentes caméras. | ReactIVision ne fait maintenant plus parti de notre projet. Nous l'avons remplacé par Touch Designer|
+| Nous n'avons pas testé la caméra avec ReacTIVision   | Tester différentes caméras. | ReactIVision ne fait maintenant plus parti de notre projet. Nous l'avons remplacé par Touch Designer, notre projet contient maintenant du Python|
 | Notre ordinateur doit pouvoir communiquer avec trop de choses en HDMI ou DisplayPort | Expérimenter des façons d'éviter d'avoir trop de choses connectées à l'ordinateur à la fois.| Problème réglé, maintenant nous n'avons qu'une seule projection|
 |Nous ne pouvons pas faire la table nous-même. | Nous connaissons des soudeurs qui pourraient faire les parties métaliques pour nous.| Notre soudeur a confirmé qu'il allait pouvoir travailler sur la table a commencé à créer les plans. |
 
