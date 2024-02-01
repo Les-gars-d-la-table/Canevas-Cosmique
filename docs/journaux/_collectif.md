@@ -15,6 +15,10 @@
 ## Semaine 3
 
 ## Semaine 2
+Cette semaine a commencé d'une manière très mouvementée, Guillaume nous a annoncé qu'on devrait changer de logiciel pour le tracking de nos fiducials alors que nous avions déjà commencé à faire communiquer nos logiciels ensemble. Après plusieurs essais, nous sommes arrivé sur touch designer, nous avons maintenant du tracking dans le logiciel, mais également un petit problème: personne dans l'équipe n'est familier avec le Python, donc il faudra apprendre.
+
+### La table
+Nous avons déterminé que la table utiliserai un projecteur ultra short-throw, **celui-ci devant être élevé de 14"**, ce qui fait en sorte qu'il dépasse la table, il faudra donc déterminer une façon d'éviter que le projecteur brise l'immersion. Pendant que le côté pratique et technique de la table prend son temps, le côté artistique du projet progresse très bien, nous avons maintenant un style visuel qui est consistant parmis nos plusieurs éléments visuels, le côté jeu vidéo de la table est également en train de très bien progresser.
 
 ## Semaine 1
 Cette semaine, nous avons fait une grosse réunion d'équipe pour clarifier quelques points de notre projet.
