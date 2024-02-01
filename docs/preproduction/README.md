@@ -36,6 +36,9 @@ Donner le pouvoir à l'intéracteur de jouer avec un système solaire qui agit c
 ## Synopsis
 L'utilisateur interagit en déplaçant une statuette avec un fiducial, ceux-ci représentant les divers outils de manipulations disponible. Par exemple, on peux utiliser un trou noir pour bouger des planètes et/ou d'autres objets astronomiques et causer d'autres phénomènes astronomiques comme des éruptions solaires. Essentiellement, le système solaire est un bac à sable où on peux créer et démolir les planètes!
 
+## Prémise du projet
+L'intéracteur entre dans une salle contenant une table et quelques étranges statuettes, il aperçois sur la table un notepad, celui-ci contenant des détails sur des expériences qui ont été effectués avec la table, par le biais de ces notes, l'intéracteur apprend comment se servir de la table et il apprend également que l'individu en charge de celle-ci est présentement en pause, il ne devrait probablement pas toucher aux outils, mais il n'y a personne pour lui en empêcher...
+
 ## Tableau d'ambiance (*moodboard*)
 ![Unity Moodboard](medias/moodboardUnity.png)
 
