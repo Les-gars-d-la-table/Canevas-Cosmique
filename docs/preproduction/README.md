@@ -127,7 +127,8 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 * Table
     * Matériaux: Bois, Aluminium, Acrylique, Spandex
     * 48" x 36", 30" de hauteur
-* grand studio avec les murs amovibles
+* Statuettes imprimées en 3D
+* Notepad contenant les infos pour l'opération de la table.
 
 ## Équipements requis
 
@@ -179,7 +180,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 ## Ressources spatiales requises
 
 * Grand studio
-  * Espace avec faux murs pour projection autours de la table.
+  * Espace avec rideaux pour isoler l'oeuvre.
 * Salle des matrices
   * Accès à plusieurs ports ethernet, possibilité de pouvoir avoir notre ordinateur dans cette salle. Possiblement également l'espace de rangement pour les statues de remplacement.
 
