@@ -229,9 +229,9 @@ Total: +/- 287$ (Sans Taxes)
 
 *Dates importantes :*
 - Remise de la vidéo d'intention: Lundi 5 Février
+- Fonctionnement total de tous les logiciels entre eux : Vendredi 9 Février
 - Maquette de la table terminée : Lundi 19 février
 - Tout terminer les assets : Jeudi 29 Février
-- Fonctionnement total de tous les logiciels entre eux : Vendredi 1 mars
 - Table terminée : Vendredi 9 mars
 - Projet final test : Lundi 11 mars
 - Présentation des projets devant public : Lundi 18 mars
@@ -246,18 +246,19 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 ## Rôles et responsabilités des membres de l'équipe 
 
 **Mikaël Tourangeau**
-- Modélisation et impression 3D des statuettes. 
+- Modélisation et impression 3D des statuettes.
+- Coordination artistique
+- Modélisation des éléments nécéssaires pour la scène Unity.
 
 **Étienne Charron**
-- Comité Technique et coordination technique (suivi du devis technique);
-- Programmation du module Max d'effet et de contrôle audio;
+- Programmation des éléments présents dans la scène Unity
 - Construction de la table
 
 **Quoc Huy Do**
-- S'assure du bon fonctionnement de Unity;
-- Coordination artistique;
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module Unity d'effets visuels.
+- S'assure du bon fonctionnement de Unity (Limit testing, troubleshooting, etc...)
+- Coordination artistique
+- Artiste VFX sur Unity
+- Visuels de la scène sur Unity
 
 **Jérémy Cholette**
 - Création des paysages sonores
@@ -266,10 +267,10 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 **Jacob Alarie-Brousseau**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition des rôles et des responsabilités des membres de l'équipe);
 - Programmation de la détection des marqueurs sur TouchDesigner.
-- Communication entre les plusieurs logiciels utilisés par OCS et NDI
+- Communication entre les plusieurs logiciels et appareils utilisant OSC et NDI
 - Construction de la table
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
 - **lundi "9:30"h (1h)** : Rencontre de suivi de projet.
-- **Vendredi "17h" (1h)** : Rencontre du suivi de ce qu'on a réaliser pendant la semaine
+- **Vendredi "17h" (1h)** : Rencontre du suivi de ce qu'on a réalisé pendant la semaine.
