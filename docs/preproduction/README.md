@@ -78,10 +78,10 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 <br>
 **Description**: L'éruption solaire est très simple, lorsqu'on pose la statue sur la table, un rayon va partir du soleil jusqu'à la statue, détruisant tout ce qui se trouve entre les deux points, cette statue ne permet pas beaucoup de surprises, sauf la première fois où quelqu'un l'essai, mais aucun bac-à-sable n'est complet sans un outil de destruction massive. Comme la statue ne sert que d'un point pour la fin d'un segment, nous n'avons pas encore eu d'idée pour l'effet arrivant lorsqu'on tourne la statuette.
 
-#### Champ Magnétique
+#### Bug
 **Type**: Chaos
 <br>
-**Description**: Le champ magnétique crée une zone autours de l'endroit où la statue à été posée, dans cette zone, les objets en orbite vont commencer à avoir des réactions étranges, par exemple, elles pourraient commencer à changer la direction vers laquelle elles vont. Où bien commencer à secouer violement. Les effets sont aléatoires et peuvent avoir différents résultats, lorsque la statue est tournée, les effets sont intensifiées.
+**Description**: Comme c'est une simulation, elle n'a pas nécéssairement besoin de toujours rester stable, la statuette bug crée des différents effets qui peuvent avoir des impacts très grands sur la zone affectée par elle. Quelques exemples d'effets seraient que: La planette grandit, rapetisse, change de côté, cesse de bouger, n'est plus affectée par le soleil, etc... L'idée de la statuette bug est de créer différents effets chaotiques sur la table et d'être imprévisible, si la statuette est tournée, l'effet devient de plus en plus intense.
 
 #### Second Soleil
 **Type**: Déplacement Chaotique
