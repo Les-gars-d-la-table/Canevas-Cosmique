@@ -63,7 +63,7 @@ L'utilisateur interagit en déplaçant une statuette avec un fiducial, ceux-ci r
 #### Trou Noir
 **Type**: Déplacement
 <br>
-**Description**: Le trou noir déplace les objets vers son centre, lorsqu'ils arrivent à cet endroit, ils sont détruits, par contre, si on retire le trou noir avant que les objets arrivent au centre, ils conservent leurs momentum, ce qui peut causer des scénarios intéressants, comme par exemple, envoyer un astéroïde quelque-part dans le système. Lorsqu'on tourne cette statuette, l'effet est soit augmenté où réduit.
+**Description**: Le trou noir déplace les objets vers son centre et lorsqu'ils arrivent à cet endroit, ils restent en place et les objets s'empile si il y a plus qu'un objet attiré. Par contre, si on retire le trou noir avant que les objets arrivent au centre, ils conservent leurs momentum, ce qui peut causer des scénarios intéressants, comme par exemple, envoyer un astéroïde quelque-part dans le système. Lorsqu'on tourne cette statuette, l'effet est soit augmenté où réduit.
 
 #### Trou Blanc
 **Type**: Déplacement
@@ -253,7 +253,7 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 - S'assure du bon fonctionnement de Unity;
 - Coordination artistique;
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Programmation du module Unity d'effets visuels.
 
 **Jérémy Cholette**
 - Création des paysages sonores
