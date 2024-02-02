@@ -64,7 +64,7 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 
 ### Description des effets des statues
 
-<img align="center" src='medias/explication.png'>
+<img align="center" src='medias/explication.png' width='700'>
 
 
 
