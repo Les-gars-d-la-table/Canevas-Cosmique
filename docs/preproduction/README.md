@@ -66,31 +66,6 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 
 <img align="center" src='medias/explication.png'>
 
-#### Trou Noir
-**Type**: Déplacement
-<br>
-**Description**: Le trou noir déplace les objets vers son centre et lorsqu'ils arrivent à cet endroit, ils restent en place et les objets s'empile si il y a plus qu'un objet attiré. Par contre, si on retire le trou noir avant que les objets arrivent au centre, ils conservent leurs momentum, ce qui peut causer des scénarios intéressants, comme par exemple, envoyer un astéroïde quelque-part dans le système. Lorsqu'on tourne cette statuette, l'effet est soit augmenté où réduit.
-
-#### Trou Blanc
-**Type**: Déplacement
-<br>
-**Description**: Le trou blanc, comme son nom l'indique, est le contraire du trou noir, fidèle à cette idée, déposer cette statue va repousser les éléments près du point où la statue est posée. Cela peut créer énormément de conséquences qui n'avaient pas étée prévues si la taille de la zone repoussant les objets est sous-estimée. Faire tourner la statuette augmente la taille de la zone repoussant les éléments, avec une limite bien sûr.
-
-#### Éruption Solaire
-**Type**: Destruction
-<br>
-**Description**: L'éruption solaire est très simple, lorsqu'on pose la statue sur la table, un rayon va partir du soleil jusqu'à la statue, détruisant tout ce qui se trouve entre les deux points, cette statue ne permet pas beaucoup de surprises, sauf la première fois où quelqu'un l'essai, mais aucun bac-à-sable n'est complet sans un outil de destruction massive. Comme la statue ne sert que d'un point pour la fin d'un segment, nous n'avons pas encore eu d'idée pour l'effet arrivant lorsqu'on tourne la statuette.
-
-#### Bug
-**Type**: Chaos
-<br>
-**Description**: Comme c'est une simulation, elle n'a pas nécéssairement besoin de toujours rester stable, la statuette bug crée des différents effets qui peuvent avoir des impacts très grands sur la zone affectée par elle. Quelques exemples d'effets seraient que: La planette grandit, rapetisse, change de côté, cesse de bouger, n'est plus affectée par le soleil, etc... L'idée de la statuette bug est de créer différents effets chaotiques sur la table et d'être imprévisible, si la statuette est tournée, l'effet devient de plus en plus intense.
-
-#### Second Soleil
-**Type**: Déplacement Chaotique
-<br>
-**Description**: Le second soleil agis comme celui au centre de la table, les planettes font donc commencer à orbiter autours de celui-ci si elles s'approchent trop de son champ d'attraction, certaines intéractions sont également possible avec les autres statutes, par exemple, l'éruption solaire va également être lancée à partir du second soleil. Faire tourner la statue augmente ou réduit l'effet.
-
 
 
 
