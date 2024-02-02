@@ -93,8 +93,8 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 ### Plantation 
 
-![cartographie](medias/plantation_studio.png)
-![cartographie](medias/plantation_1.png)
+![cartographie](medias/plantationGrandStudioTable.png)
+![cartographie](medias/plantationTable.png)
 
 ### Schéma de branchement 
 
