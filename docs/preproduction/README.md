@@ -60,10 +60,11 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 
 <img align="center" src='medias/scenarimage7.png' width='500'>
 
-<img align="center" src='medias/explication.png' width='500'>
 </p>
 
 ### Description des effets des statues
+
+<img align="center" src='medias/explication.png'>
 
 #### Trou Noir
 **Type**: Déplacement
