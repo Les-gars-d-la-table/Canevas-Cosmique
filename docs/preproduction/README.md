@@ -42,6 +42,9 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 ## Tableau d'ambiance (*moodboard*)
 ![Unity Moodboard](medias/moodboardUnity.png)
 
+### Description des effets des statues
+
+<img align="center" src='medias/explication.png' width='1000'>
 
 ## Scénario, scénarimage ou document audio/visuel
 
@@ -61,12 +64,6 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 <img align="center" src='medias/scenarimage7.png' width='500'>
 
 </p>
-
-### Description des effets des statues
-
-<img align="center" src='medias/explication.png' width='1000'>
-
-
 
 
 
