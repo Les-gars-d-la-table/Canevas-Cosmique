@@ -18,7 +18,7 @@
 - Schémas de ce qui apparaît sur la table et ce qui apparaît sur le projecteur.
 
 ###
-![ici est une description de l'image](medias/jacobMedia/ViewTable.png)
+![iSchéma table](medias/jacobMedia/ViewTable.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
@@ -52,7 +52,7 @@ Ma semaine a commencée d'une manière relativement inatendue, j'ai dû remplace
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Détection Touch Designer](medias/jacobMedia/detectionTouch.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
