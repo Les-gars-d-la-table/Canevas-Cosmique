@@ -62,7 +62,7 @@ Ma semaine a commencée d'une manière relativement inatendue, j'ai dû remplace
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai dû m'habituer à la syntaxe assez unique du Python et comprendre à peu près comment touchDesigner fonctionne sur le coup, cette semaine je prévoyais majoritairement faire communiquer nos logiciels, mais comme quelques de nos logiciels centraux ont changés, je n'ai pas encore eu le temps de me pencher là-dessus.
+ J'ai dû m'habituer à la syntaxe assez unique du Python et comprendre à peu près comment touchDesigner fonctionne sur le coup, j'ai réussi à détecter les marqueurs dans unity et de recevoir l'information liée à ceux-ci dans Unity par OSC, il ne me reste plus qu'à trouver une façon de calculer l'angle du marqueur sur la caméra. Nous avons également déterminé que le projecteur de la table devra être élevé de 14", ce qui est un peu triste parce que cela signifie qu'on va pouvoir le voir à côté de celle-ci.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Plus d'heures de travail.
@@ -81,7 +81,7 @@ Comme mentionné plusieurs fois maintenant, j'ai dû remplacer quelques logiciel
 Plus d'heures de travail, demander de l'assistance de mes collègues pour mes tâches.
 
 ### Défis pour la prochaine semaine
-Détection complètement fonctionnelle sur touchDesigner, informations envoyées vers unity de la manière dont j'aimerai les recevoir.
+Trouver une façcon de recevoir l'angle du marqueur, apprendre à calibrer la table.
 
 ---
 ## Semaine 3 
