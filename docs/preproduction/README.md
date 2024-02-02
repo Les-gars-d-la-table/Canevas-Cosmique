@@ -46,19 +46,19 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 ## Scénario, scénarimage ou document audio/visuel
 
 <p align="center">
-<img align="center" src='medias/scenarimage_1.png' width='500'>
+<img align="center" src='medias/scenarimage1.png' width='500'>
 
-<img align="center" src='medias/scenarimage_2.png' width='500'>
+<img align="center" src='medias/scenarimage2.png' width='500'>
 
-<img align="center" src='medias/scenarimage_3.png' width='500'>
+<img align="center" src='medias/scenarimage3.png' width='500'>
 
-<img align="center" src='medias/scenarimage_4.png' width='500'>
+<img align="center" src='medias/scenarimage4.png' width='500'>
 
-<img align="center" src='medias/scenarimage_5.png' width='500'>
+<img align="center" src='medias/scenarimage5.png' width='500'>
 
-<img align="center" src='medias/scenarimage_6.png' width='500'>
+<img align="center" src='medias/scenarimage6.png' width='500'>
 
-<img align="center" src='medias/scenarimage_7.png' width='500'>
+<img align="center" src='medias/scenarimage7.png' width='500'>
 </p>
 
 ### Description des effets des statues
