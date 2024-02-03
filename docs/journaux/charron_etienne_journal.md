@@ -49,40 +49,31 @@ Je planifie faire la banière et commencer unity la semaine prochaine.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
-
+J'ai programmé le trou noir, le trou blanc et la gravité du soleil sur les planetes dans unity.
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![gif du soleil qui attire des planetes](medias/etienneMedia/soleil.gif)
-
-
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
-- [ ] Peu
+- [x] Assez
+- [] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'ai pas commencé à travailler sur la banière de notre projet parce que j'occupais de la programation de unity
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je pense travailler dessus lorsque je n'aurais pas accès à unity .
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Je me donne comme défis de réussir à programmer l'effet bug et l'effet éruption solair dans unity la semaine prochaine.
 
 ---
 ## Semaine 3 
