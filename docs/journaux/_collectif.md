@@ -27,7 +27,7 @@ Nous avons déterminé que la table utiliserai un projecteur ultra short-throw, 
 <br>
 
 ### En résumé
-Notre projet a grandement progressé cette semaine, nous avons fait un pas à reculons pour deux en avant, le script présent dans touchDesigner est maintenant plus ou moins complètement fonctionnel, il ne reste qu'à calibrer le code avec la table, en d'autre lieu, nous n'avons toujours pas de caméra infrarouge, ce qui serait quelque-chose qui serait grandement aprécié d'obtenir au plus tôt possible.
+Notre projet a grandement progressé cette semaine, nous avons fait un pas à reculons pour deux en avant, le script présent dans touchDesigner est maintenant plus ou moins complètement fonctionnel, il ne reste qu'à calibrer le code avec la table, en d'autre lieu, nous n'avons toujours pas de caméra infrarouge, ce qui serait quelque-chose qui serait grandement aprécié d'obtenir au plus tôt possible. La semaine prochaine, il sera temps de commencer à monter notre scène finale dans unity.
 
 ## Semaine 1
 Cette semaine, nous avons fait une grosse réunion d'équipe pour clarifier quelques points de notre projet.
