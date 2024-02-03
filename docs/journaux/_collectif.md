@@ -20,6 +20,15 @@ Cette semaine a commencé d'une manière très mouvementée, Guillaume nous a an
 ### La table
 Nous avons déterminé que la table utiliserai un projecteur ultra short-throw, **celui-ci devant être élevé de 14"**, ce qui fait en sorte qu'il dépasse la table, il faudra donc déterminer une façon d'éviter que le projecteur brise l'immersion. Pendant que le côté pratique et technique de la table prend son temps, le côté artistique du projet progresse très bien, nous avons maintenant un style visuel qui est consistant parmis nos plusieurs éléments visuels, le côté jeu vidéo de la table est également en train de très bien progresser.
 
+![Prototype de la table 1](medias/tablePrototype3.jpg)
+
+![Prototype de la table 2](medias/tablePrototype1.jpg)
+
+<br>
+
+### En résumé
+Notre projet a grandement progressé cette semaine, nous avons fait un pas à reculons pour deux en avant, le script présent dans touchDesigner est maintenant plus ou moins complètement fonctionnel, il ne reste qu'à calibrer le code avec la table, en d'autre lieu, nous n'avons toujours pas de caméra infrarouge, ce qui serait quelque-chose qui serait grandement aprécié d'obtenir au plus tôt possible.
+
 ## Semaine 1
 Cette semaine, nous avons fait une grosse réunion d'équipe pour clarifier quelques points de notre projet.
 
