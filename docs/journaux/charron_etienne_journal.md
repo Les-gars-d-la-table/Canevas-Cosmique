@@ -52,7 +52,7 @@ Je planifie faire la banière et commencer unity la semaine prochaine.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![gif du soleil qui attire des planetes](medias/etienneMedia/soleil.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
