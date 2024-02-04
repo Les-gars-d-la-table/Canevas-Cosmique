@@ -249,3 +249,56 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 Hebdomadaire
 - **lundi "9:30"h (1h)** : Rencontre de suivi de projet.
 - **Vendredi "17h" (1h)** : Rencontre du suivi de ce qu'on a réalisé pendant la semaine.
+
+  
+
+**Public cible : Explorateurs**
+
+### Comportement de l’interacteur 
+L’interacteur va pouvoir manipuler l’environnement grâce à des statuettes qui vont chacune causer des effets différents. Ces différents effets créeront un chaos alors que d’autre créeront un certain calme. 
+
+ 
+
+### Esthétique 
+Le visuel du projet sera centré sur le style “low-poly" et le sonore sera plus électronique et mystérieux. Le projet va ressembler un a système solaire et sera en 3D. Le style représente une simulation spatiale non-réaliste créer par des scientifiques pour simuler un système solaire et les interacteurs sont des personnes qui ne sont pas supposer toucher à rien. 
+
+ 
+
+### Espace
+L’interacteur pourra se promener librement autour de la table dans le but d’observer le système solaire projeter sur la table dans tous les angles qu’il voudra en plus de pouvoir tout déplacer ce qu’il y aura dessus. L’interacteur peut également se déplacer dans l’espace autours de la table pour explorer le laboratoire pour aller chercher les statues et en apprendre plus sur leurs effets.
+
+ 
+
+### Temps
+Les mouvements des planètes sera lent mais suffisamment rapide pour que l’interacteur ne perde pas l’intérêt de regarder les planètes bouger grâce à ses interactions sur eux. L’objectif est que l’interacteur soit suffisamment intéressé par le concept des statues pour rester et essayer des différents scénarios.
+
+ 
+### Quelles émotions voulons-nous faire vivre à l’interacteur?  
+
+L’émotion que nous voulons faire vivre est l’émerveillement car pensons que l’idée d’une action faite dans la réalité ayant un impact sur ce qu’il se passe sur la table est quelque-chose qui peut avoir beaucoup d’effet sur l’interacteur. 
+
+### Quelles questions votre projet met-il dans l’esprit de l’interacteur? 
+
+Les questions que les interacteurs vont se poser seront principalement sur ce que font les statuettes et ce que fait la table. 
+
+### Que devrons-nous faire pour qu’il ait envie de répondre à ces questions? 
+
+Nous ferons en sortes que les interacteurs puissent comprendre que les statuettes doivent être poser sur la table pour qu’il se produise quelque chose. Pour ce faire nous pourrions ajouter des effets lorsque la table est `inactive` pour que l’interacteur comprenne qu’il doit poser la statuette sur la table. 
+
+ 
+
+Liste d’actions basiques: 
+
+- Prendre les statuettes 
+- Poser les statuettes
+- Glisser les statuettes 
+
+ 
+
+Liste d’actions émergentes: 
+
+- Attirer les planètes 
+- Repousser les planètes 
+- Exploser les planètes 
+- Créer une orbite
+- Changer les attributs des planètes 
