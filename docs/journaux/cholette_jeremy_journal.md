@@ -47,7 +47,7 @@ Pour la semaine prochaine, j'aimerais faire des tests sonores et composer quelqu
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai refait le scénarimage et créer une légende avec des icones et une description de ce que chaque statuettes fait. J'ai également créer des prototypes sonores de la musique d'ambiance et de quelques sons. J'ai aussi aider à effectuer des tests pour calculer la distance à laquelle nous devrions mettre le projecteur par rapport à la plaque d'acrylique.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -55,32 +55,27 @@ Pour la semaine prochaine, j'aimerais faire des tests sonores et composer quelqu
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Cette semaine je m'étais fixé comme objectif de réalisé des prototypes sonores et faire des tests avec le projecteur mais j'ai également refait le scénarimage en plus d'une légende détaillé des effets de chaque statues.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
-
+La semaine prochaine j'aimerais continuer à aider à effectuer des tests avec la caméra infrarouge et commencer à travailler sur les sons finals du projet.
 
 ---
 ## Semaine 3 
