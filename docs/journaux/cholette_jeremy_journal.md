@@ -51,6 +51,7 @@ Cette semaine j'ai refait le scénarimage et créer une légende avec des icones
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+Légende des effets des statuettes
 ![ici est une description de l'image](medias/jeremyMedia/explication.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
