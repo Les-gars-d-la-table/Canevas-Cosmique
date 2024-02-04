@@ -56,13 +56,13 @@ Ma semaine a commencée d'une manière relativement inatendue, j'ai dû remplace
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai dû m'habituer à la syntaxe assez unique du Python et comprendre à peu près comment touchDesigner fonctionne sur le coup, j'ai réussi à détecter les marqueurs dans unity et de recevoir l'information liée à ceux-ci dans Unity par OSC, il ne me reste plus qu'à trouver une façon de calculer l'angle du marqueur sur la caméra. Nous avons également déterminé que le projecteur de la table devra être élevé de 14", ce qui est un peu triste parce que cela signifie qu'on va pouvoir le voir à côté de celle-ci.
+ J'ai dû m'habituer à la syntaxe assez unique du Python et comprendre à peu près comment touchDesigner fonctionne sur le coup, j'ai réussi à détecter les marqueurs dans TouchDesigner et de envoyer l'information liée à ceux-ci dans Unity par OSC, pour ensuite les traiter correctement du côté de Unity. Nous avons également déterminé que le projecteur de la table devra être élevé de 14", ce qui est un peu triste parce que cela signifie qu'on va pouvoir le voir à côté de celle-ci.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Plus d'heures de travail.
