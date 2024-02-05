@@ -85,7 +85,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 
-![Sketch Table](medias/table_sketch.jpg)
+![Sketch Table](medias/sketchTable.png)
 > Schéma de la table déssiné par notre soudeur
 
 ### Plantation 
