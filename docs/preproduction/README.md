@@ -285,19 +285,19 @@ Les questions que les interacteurs vont se poser seront principalement sur ce qu
 
 Nous ferons en sortes que les interacteurs puissent comprendre que les statuettes doivent être poser sur la table pour qu’il se produise quelque chose. Pour ce faire nous pourrions ajouter des effets lorsque la table est `inactive` pour que l’interacteur comprenne qu’il doit poser la statuette sur la table. 
 
- 
+ <br>
 
 Liste d’actions basiques (verbes): 
-
+<br>
 - Prendre
 - Poser
 - Glisser
-
+<br>
  Objets:
  - Les statuettes
-
+<br>
 Liste d’actions émergentes: 
-
+<br>
 - Attirer les planètes 
 - Repousser les planètes 
 - Exploser les planètes 
@@ -305,7 +305,10 @@ Liste d’actions émergentes:
 - Changer les attributs des planètes
 
 Progression de l'expérience:
-
+<br>
 - Ajouter plus de planètes au système solaire
 - Retirer des planètes au système solaire
 - Création de nouvelles planètes à partir de fragments de d'autres planètes.
+
+Paragraphe de description de notre projet:
+Vous vous retrouvez dans un laboratoire contenant une table, après un peu de recherche vous découvrez que sur l'écran au dessus de celle-ci se trouve une simulation d'un système solaire avec laquelle vous pouvez intéragir en déposant des statues déclancheant différents phénomènes. Vous êtes invité à expérimenter sur cette table, jusqu'à ce que les scientifiques reviennent en tout cas...
