@@ -287,13 +287,14 @@ Nous ferons en sortes que les interacteurs puissent comprendre que les statuette
 
  
 
-Liste d’actions basiques: 
+Liste d’actions basiques (verbes): 
 
-- Prendre les statuettes 
-- Poser les statuettes
-- Glisser les statuettes 
+- Prendre
+- Poser
+- Glisser
 
- 
+ Objets:
+ - Les statuettes
 
 Liste d’actions émergentes: 
 
@@ -301,4 +302,10 @@ Liste d’actions émergentes:
 - Repousser les planètes 
 - Exploser les planètes 
 - Créer une orbite
-- Changer les attributs des planètes 
+- Changer les attributs des planètes
+
+Progression de l'expérience:
+
+- Ajouter plus de planètes au système solaire
+- Retirer des planètes au système solaire
+- Création de nouvelles planètes à partir de fragments de d'autres planètes.
