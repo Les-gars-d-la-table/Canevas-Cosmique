@@ -89,40 +89,34 @@ Continuer les effets sur Unity et la scène. Préférablement trouver un moyen d
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+J'ai créé les effets pour deux statuettes; l'éruption solaire et le bug. En équipe, nous avons aussi élaboré sur un schéma d'intéraction entre les éléments de la scène alors nmous avons une idée plus concrète des combinaisons possibles.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![CME](medias/quocHuyMedia/S3_solarFlare.gif)
+![bug](medias/quocHuyMedia/S3_bugCloud.gif)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai initalement planifié de faire seulement l'éruption solaire et de le modifier jusqu'à que j'ai un effet que je suis satisfait avec mais puisque je l'ai complété relativement rapidement, j'ai fais le bug en même temps. Les deux ont beaucoup de propriétés qu'on peux modifier pour avoir des résultats différents.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Continuer les effets sur Unity et la scène (encore). Préférablement trouver un moyen de faire une bonne skybox (probablement un particle emitter d'étoiles dans un fond complètement noir).
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
