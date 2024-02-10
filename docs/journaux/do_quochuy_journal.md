@@ -116,7 +116,9 @@ J'ai initalement planifié de faire seulement l'éruption solaire et de le modif
 N/A
 
 ### Défis pour la prochaine semaine
+
 Continuer les effets sur Unity et la scène (encore). Préférablement trouver un moyen de faire une bonne skybox (probablement un particle emitter d'étoiles dans un fond complètement noir).
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
