@@ -140,10 +140,11 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 * [Touch Designer](https://derivative.ca/)
 * [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
 * [Autodesk Maya](https://www.autodesk.com/ca-fr)
 * [VCV Rack](https://vcvrack.com/)
 * [OBS](https://obsproject.com)
+* [Reaper](https://www.reaper.fm/download.php)
+* [MadMapper](https://madmapper.com/madmapper/software)
 
 ## Ressources humaines requises
 
