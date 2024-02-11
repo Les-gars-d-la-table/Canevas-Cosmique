@@ -95,7 +95,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 ### Schéma de branchement 
 
-![schema_branchement](medias/schema_branchement_ver4.png)
+![schema_branchement](medias/schema_branchement_ver5.png)
 
 ## Matériel de scénographie requis
 
