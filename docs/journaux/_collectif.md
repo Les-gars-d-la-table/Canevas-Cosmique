@@ -13,6 +13,18 @@
 ## Semaine 4
 
 ## Semaine 3
+Cette semaine a été un très grand bond dans la progression de notre projet, avec un premier prototype fonctionnel de la table elle-même, une démo jouable de notre produit final avec quelques effets manquants. Au courant de la semaine, nous avons effectué plusieurs tests par rapport à la table, pour commencer, le projecteur n'est plus retenu à une élévation de 14", à la place, celui-ci sera sur le sol, en inclinaison, il tiens présentement sur une pile de boîtes de pommes, ce qui n'est définitivement pas ce que nous ferons pour la version finale. Nous avons également commencé à monter notre matériel au plafond, mais nous avons encontré quelque problèmes par rapport à cela donc il faudra en finir au courant de la semaine prochaine.
+
+### Démo
+Nous avons créé une démo jouable de notre produit final, celle-ci n'utilisait pas la version finale des effets visuels et modèls 3D et n'avais pas réelement d'audio, mais elle était jouable en faisant scanner à une webcam les marqueurs. Depuis, celle-ci est en train d'être adaptée pour être utilisée sur la table elle-même, mais cette conversion est toujours en cours. La démo ne contenait que les effets de trou noir et trou blanc, mais depuis la production de celle-ci, le reste des effets ont été développés.
+
+### La table
+Nous avons monté le prototype de la table pour la dernière fois (On espère). Guillaume nous a donné des plaques d'acrylique plus épaisses que ce que nous avions (1/4 de pouce contre 1/8 de pouce), ce qui donne plus d'intégrité au centre de la table. De plus, la caméra que nous risquons utiliser pour le projet sera une kinect V2, plus de détails à propos de cela dans le journal de Jacob.
+![tableSetup](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/9944065f-0089-4992-945a-319a4fb0b9dc)
+
+
+### La semaine prochaine...
+La semaine prochaine ne va pas être de tout repos, il faut s'assurer de calibrer notre table. Avoir tout les effets programmés pour lundi prochain avec une démo complète, et avoir l'audio pour chacun des événements, rien ne doit nécéssairement être final, mais il faut que quelque chose sois présent. Car il faudra présenter la maquette du projet le 19.
 
 ## Semaine 2
 Cette semaine a commencé d'une manière très mouvementée, Guillaume nous a annoncé qu'on devrait changer de logiciel pour le tracking de nos fiducials alors que nous avions déjà commencé à faire communiquer nos logiciels ensemble. Après plusieurs essais, nous sommes arrivé sur touch designer, nous avons maintenant du tracking dans le logiciel, mais également un petit problème: personne dans l'équipe n'est familier avec le Python, donc il faudra apprendre.
