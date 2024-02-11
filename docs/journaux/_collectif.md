@@ -19,7 +19,7 @@ Cette semaine a été un très grand bond dans la progression de notre projet, a
 Nous avons créé une démo jouable de notre produit final, celle-ci n'utilisait pas la version finale des effets visuels et modèls 3D et n'avais pas réelement d'audio, mais elle était jouable en faisant scanner à une webcam les marqueurs. Depuis, celle-ci est en train d'être adaptée pour être utilisée sur la table elle-même, mais cette conversion est toujours en cours. La démo ne contenait que les effets de trou noir et trou blanc, mais depuis la production de celle-ci, le reste des effets ont été développés.
 
 ### La table
-Nous avons monté le prototype de la table pour la dernière fois (On espère). Guillaume nous a donné des plaques d'acrylique plus épaisses que ce que nous avions (1/4 de pouce contre 1/8 de pouce), ce qui donne plus d'intégrité au centre de la table. De plus, la caméra que nous risquons utiliser pour le projet sera une kinect V2, plus de détails à propos de cela dans le journal de Jacob.
+Nous avons monté le prototype de la table pour la dernière fois (On espère). Guillaume nous a donné des plaques d'acrylique plus épaisses que ce que nous avions (1/4 de pouce contre 1/8 de pouce), ce qui donne plus d'intégrité au centre de la table. De plus, la caméra que nous risquons utiliser pour le projet sera une kinect V2, plus de détails à propos de cela dans le journal de Jacob. À cause de ce changement de caméra, nous risquons de remplacer le PI avec un micro ordinateur, car nous allons avoir besoin d'utiliser touchDesigner directement dans la table.
 ![tableSetup](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/9944065f-0089-4992-945a-319a4fb0b9dc)
 
 
