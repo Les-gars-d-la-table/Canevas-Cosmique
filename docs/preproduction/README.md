@@ -304,6 +304,8 @@ Liste d’actions émergentes:
 - Exploser les planètes 
 - Créer une orbite
 - Changer les attributs des planètes
+- Créer des réactions inatendues en posant plusieurs statues sur la table.
+- 
 
 Progression de l'expérience:
 <br>
