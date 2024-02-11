@@ -1,5 +1,5 @@
 # Journal de Jérémy Cholette
-![portrait du participant ](medias/jeremyMedia/profile.png)
+![portrait du participant ](medias/jeremyMedia/profileJeremy.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
