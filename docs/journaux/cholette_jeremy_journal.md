@@ -81,7 +81,7 @@ La semaine prochaine j'aimerais continuer à aider à effectuer des tests avec l
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai effectuer des tests avec le projecteur sous les plaques d'acrylique, aider à l'installation de matériel au plafond, fait le tableau des sons qui serait présent sur le projet et de nouveau prototype sonore.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -89,31 +89,25 @@ La semaine prochaine j'aimerais continuer à aider à effectuer des tests avec l
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ Cette semaine j'avais pour objectif de refaire des prototypes sonore et le tableau des sons en plus de l'installation du matériel au plafond.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+La semaine prochaine j'aimerais commencer les sons qui seront presque finaux et faire des musiques d'ambiance pour le projet. J'aimerais aussi terminer d'installer les équipements au plafond et finaliser notre prototype. Je vais aussi migrer les sons sur unity.
 
 ---
 ## Semaine 4
