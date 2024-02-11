@@ -14,9 +14,13 @@
 
 ## Semaine 3
 Cette semaine a été un très grand bond dans la progression de notre projet, avec un premier prototype fonctionnel de la table elle-même, une démo jouable de notre produit final avec quelques effets manquants. Au courant de la semaine, nous avons effectué plusieurs tests par rapport à la table, pour commencer, le projecteur n'est plus retenu à une élévation de 14", à la place, celui-ci sera sur le sol, en inclinaison, il tiens présentement sur une pile de boîtes de pommes, ce qui n'est définitivement pas ce que nous ferons pour la version finale. Nous avons également commencé à monter notre matériel au plafond, mais nous avons encontré quelque problèmes par rapport à cela donc il faudra en finir au courant de la semaine prochaine.
+![mikCeiling](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/eb4afbb7-e0aa-4090-9c68-d47b45c3977f)
+
 
 ### Démo
 Nous avons créé une démo jouable de notre produit final, celle-ci n'utilisait pas la version finale des effets visuels et modèls 3D et n'avais pas réelement d'audio, mais elle était jouable en faisant scanner à une webcam les marqueurs. Depuis, celle-ci est en train d'être adaptée pour être utilisée sur la table elle-même, mais cette conversion est toujours en cours. La démo ne contenait que les effets de trou noir et trou blanc, mais depuis la production de celle-ci, le reste des effets ont été développés.
+![tableFontionne](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/4bf6a139-32ff-404b-a213-a456d6b4701e)
+
 
 ### La table
 Nous avons monté le prototype de la table pour la dernière fois (On espère). Guillaume nous a donné des plaques d'acrylique plus épaisses que ce que nous avions (1/4 de pouce contre 1/8 de pouce), ce qui donne plus d'intégrité au centre de la table. De plus, la caméra que nous risquons utiliser pour le projet sera une kinect V2, plus de détails à propos de cela dans le journal de Jacob. À cause de ce changement de caméra, nous risquons de remplacer le PI avec un micro ordinateur, car nous allons avoir besoin d'utiliser touchDesigner directement dans la table.
