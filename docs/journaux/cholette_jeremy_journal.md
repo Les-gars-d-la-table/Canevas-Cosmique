@@ -18,9 +18,9 @@
 - J'ai réalisé des schémas des activations visuelles des statues. Lorsqu'une statue est posée sur la table, une zone colorée va entourer la base de la statue pour montrer à l'utilisateur que la statue a bel et bien été activé. J'ai aussi refait le schéma de plantation de la préproduction. De plus, j'ai effectuer des tests avec Jacob pour voir si la caméra pouvait détecter nos statuette à travers les deux plaques d'acryliques et la feuille de papier calque.  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/jeremyMedia/schema-activation-statue.png)
+![effet d'activation](medias/jeremyMedia/schema-activation-statue.png)
 ou
-![ici est une description de l'image](medias/jeremyMedia/schema-activation-dessus.png)
+![effet d'activation](medias/jeremyMedia/schema-activation-dessus.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -52,7 +52,7 @@ Cette semaine j'ai refait le scénarimage et créer une légende avec des icones
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 Légende des effets des statuettes
-![ici est une description de l'image](medias/jeremyMedia/explication.png)
+![Image expliquant le fonctionnement de chaque statuette](medias/jeremyMedia/explication.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -85,7 +85,7 @@ Cette semaine j'ai effectuer des tests avec le projecteur sous les plaques d'acr
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tableau des sons](medias/jeremyMedia/tableauSons-dessus.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
