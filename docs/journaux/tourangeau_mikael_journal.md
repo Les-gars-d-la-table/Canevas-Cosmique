@@ -57,74 +57,85 @@ Réussir à faire des modèles adaptables à l'impression 3D.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![ici est une description de l'image](medias/mikaelMedia/debut_statuettes.PNG)
+![ici est une description de l'image](medias/mikaelMedia/statue_semaine_2.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+Parce que les statuettes avancent bien et les planètes sont déjà fini en modélisation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Problème de logiciel.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Régler le problème.
 
 ### Défis pour la prochaine semaine
 
-
+Installer l'équipement au plafond.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 
+- Planètes finies et intégré dans unity.
+
+- Équipement installé au plafond.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image](medias/mikaelMedia/planete_unity_semaine_3.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+L'équipement est installé au plafond, donc nous n'aurons plus besoin d'attendre pour L'équipement plus tard. De plus, les planètes sont prêtes à être utilisées.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Problèmes d'équipements.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+S'assurer d'avoir tous les équipements pour les travaux de la journée.
 
 ### Défis pour la prochaine semaine
-
+Matériaux random dans unity.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
