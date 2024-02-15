@@ -65,7 +65,7 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 
 </p>
 
-
+Pour accéder aux fichiers audio cliquer sur le lien: [Fichiers sonores](https://cmontmorency365.sharepoint.com/:f:/s/projetfinalgamers/EmcWks1j-_RDta-IFLM0OwABNSeXLUPmWIjgLWJMrZu5vQ?e=uDVWDE)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
