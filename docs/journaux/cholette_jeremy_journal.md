@@ -112,7 +112,7 @@ La semaine prochaine j'aimerais commencer les sons qui seront presque finaux et 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-Cette semaine j'ai looper les sons et la musique d'ambiance et je les ai intégrés dans Unity. J'ai aidé à relier unity à touch designer en spout pour pouvoir le mapper sur la table. J'ai également aidé à travailler sur la priorité des sons dans unity et leur volume.
+Cette semaine j'ai looper les sons et la musique d'ambiance et je les ai intégrés dans Unity. J'ai aidé à relier unity à TouchDesigner en spout pour pouvoir le mapper sur la table. J'ai également aidé à travailler sur la priorité des sons dans unity et leur volume. J'ai également créé quelques nouveaux effets sonore.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -125,6 +125,8 @@ Cette semaine j'ai looper les sons et la musique d'ambiance et je les ai intégr
 - [ ] Peu
 - [ ] Pas du tout
 
+#### Décrivez pourquoi.
+Cette semaine j'avais prévu de looper les sons qui avaient été accepter pour le projet et de travailler sur la communication entre unity et TouchDesigner pour le mapping de la projection dans la table. J'ai également aider Jacob dans ces tests pour l'explosion du soleil.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
