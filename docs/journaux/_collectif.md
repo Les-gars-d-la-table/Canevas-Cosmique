@@ -11,6 +11,7 @@
 ## Semaine 5
 
 ## Semaine 4
+Cette semaine n'a pas été de tout repos, la maquette de la table est terminée, notre démo à été finalisée, et contient maintenant toutes les fonctionnalitées qui seront présentes dans la version finale, tout ce qui nous reste vraiment à faire, c'est rajouter par dessus ce que nous avons, de nouvelles features ne seronts plus créées à partir de maintenant. Nous devrions recevoir la table lundi ou mardi, ce qu'il nous reste à accomplir est très clair et nous allons être capable de faire ce que nous avons à faire. Nos choses sont maintenant au plafond, et la table est maintenant plus facile à calibrer.
 
 ## Semaine 3
 Cette semaine a été un très grand bond dans la progression de notre projet, avec un premier prototype fonctionnel de la table elle-même, une démo jouable de notre produit final avec quelques effets manquants. Au courant de la semaine, nous avons effectué plusieurs tests par rapport à la table, pour commencer, le projecteur n'est plus retenu à une élévation de 14", à la place, celui-ci sera sur le sol, en inclinaison, il tiens présentement sur une pile de boîtes de pommes, ce qui n'est définitivement pas ce que nous ferons pour la version finale. Nous avons également commencé à monter notre matériel au plafond, mais nous avons encontré quelque problèmes par rapport à cela donc il faudra en finir au courant de la semaine prochaine.
