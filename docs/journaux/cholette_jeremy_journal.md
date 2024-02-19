@@ -112,7 +112,7 @@ La semaine prochaine j'aimerais commencer les sons qui seront presque finaux et 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-Cette semaine j'ai looper les sons et la musique d'ambiance et je les ai integré dans unity. J'ai aider à relier unity à touchDesigner en spout pour pouvoir le mapper sur la table. J'ai également aider à travailler sur la priorité des sons dans unity et leur volume.
+Cette semaine j'ai looper les sons et la musique d'ambiance et je les ai intégrés dans Unity. J'ai aidé à relier unity à touch designer en spout pour pouvoir le mapper sur la table. J'ai également aidé à travailler sur la priorité des sons dans unity et leur volume.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -135,7 +135,7 @@ Cette semaine j'ai looper les sons et la musique d'ambiance et je les ai integr�
 
 
 ### Défis pour la prochaine semaine
-Pour la semaine prochaine j'aimerais polir les sons que nous avons et également monter la table avec la structure final.
+Pour la semaine prochaine j'aimerais polir les sons que nous avons et également monter la table avec la structure finale.
 
 ---
 ## Semaine 5
