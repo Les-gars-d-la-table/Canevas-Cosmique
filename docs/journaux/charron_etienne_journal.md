@@ -78,7 +78,7 @@ Je me donne comme défis de réussir à programmer l'effet bug et l'effet érupt
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- programation de l'éruption solaire
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
