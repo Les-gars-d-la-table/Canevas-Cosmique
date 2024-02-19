@@ -112,39 +112,30 @@ La semaine prochaine j'aimerais commencer les sons qui seront presque finaux et 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai looper les sons et la musique d'ambiance et je les ai integré dans unity. J'ai aider à relier unity à touchDesigner en spout pour pouvoir le mapper sur la table. J'ai également aider à travailler sur la priorité des sons dans unity et leur volume.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tableau des sons](medias/jeremyMedia/reaperSons.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine j'aimerais polir les sons que nous avons et également monter la table avec la structure final.
 
 ---
 ## Semaine 5
