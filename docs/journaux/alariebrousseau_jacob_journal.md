@@ -148,28 +148,42 @@ Améliorer la projection, perfectionner nos effets pour la démonstration de la 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+Cette semaine, j'ai pas mal travaillé sur unity, j'ai créé une très grande liste de features, la destruction du système, un état inactif, la création de nouvelles planettes, resize la scène pour que celle-ci utilise une échelle de 1, créer un outil pour calibrer la table pendant que le jeu roule. J'ai également travaillé sur avoir une calibration plus précise en retravaillant le patcher TouchDesigner.
 
+#### Destruction du système solaire
+Lorsque le trou noir est posé sur le soleil, une animation démmare, si elle se termine, le système solaire est détruit et il faut retirer toutes les statues de la table pour que le système puisse redémarrer.
+
+#### état inactif
+
+Si aucune statue n'est présente sur la table pendant 2 minutes, elle entre un état inactif dans lequel de la musique joue.
+
+#### Nouvelles planettes
+À tous les 10 secondes, si moins de 15 planètes sont présentes dans la scène, il y a une chance sur 5 qu'une planète apparaîsse à chacun des coins, si il y a moins de 5 planètes, les chances sont augmentées à 1/3.
+
+#### Outils de calibration
+Comme nous ne pourrons pas toujours travailler avec l'éditeur de unity, il nous faut un interface dans lequel on peut calibrer la table, c'est le point de cet outils.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![tableFontionnelle](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/82438f47-05f0-41f5-85d7-a956a40e2bd7)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai pas mal litérallement travaillé sans arrêt pendant toute la semaine pour avoir toutes les features qu'on voulait dans le jeu. J'ai réussi à rentrer la majorité, le reste à été abandonné.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -181,7 +195,7 @@ Améliorer la projection, perfectionner nos effets pour la démonstration de la 
 
 
 ### Défis pour la prochaine semaine
-
+ La semaine prochaine risque d'être beaucoup plus calme, nous avons tout nos systèmes fonctionnels donc tout ce qu'il nous reste à faire, c'est rajouter par dessus, polir notre projet, et peut-être changer un peu de visuel. Je n'ai pas vraiment de défi en tête mais comme nous allons reçevoir la table au courant de la semaine, je pense que calibrer le projet avec la table final sera le défi.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
