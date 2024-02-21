@@ -122,40 +122,38 @@ Continuer les effets sur Unity et la scène (encore). Préférablement trouver u
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+J'ai créé les effets pour les dernières statuettes; le soleil (et deuxième soleil) et j'ai retravaillé le bug. Nous avons commencé à aussi planifier le UI pour le projecteur sur le mur.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![bug](medias/quocHuyMedia/S4_bugFinal.gif)
+![sun](medias/quocHuyMedia/S4_Sun.gif)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai fais l'effet pour le soleil et ses 6 variantes différentes et j'ai refais le bug avec une nouvelle idée en tête puisque celui de la semaine passée n'étais pas assez clair.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Travailler sur le UI pour le projecteur sur le mur et autres effets si le besoin arrive.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
