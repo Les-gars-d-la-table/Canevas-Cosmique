@@ -190,7 +190,7 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Semaine de rattrapage??
+Debug la scène Unity et ajouter autre petits détails si on trouve des idées.
 
 ---
 ## Semaine de rattrapage
