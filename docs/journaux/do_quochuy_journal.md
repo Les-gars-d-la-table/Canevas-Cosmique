@@ -191,6 +191,7 @@ N/A
 
 ### Défis pour la prochaine semaine
 Semaine de rattrapage??
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
