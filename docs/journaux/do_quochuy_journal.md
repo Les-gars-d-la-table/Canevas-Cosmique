@@ -157,40 +157,40 @@ Travailler sur le UI pour le projecteur sur le mur et autres effets si le besoin
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+Pendant les visites des première années, nous avons remarqués que presque tout le monde qui ont intéragis avec notre table ont mis tous les statues sur le soleil. Sachant ceci, nous avons décidés de changer la condition pour réinitialiser le système; il faut maintenant tous les statues sur le soleil à la place de juste le trou noir. Maintenant, le trou noir sur le soleil monte la masse de ceci. J'ai aussi fais le UI pour le projecteur sur le mur et retravaillé l'effet sur ceci lors de la réinitialisation du système.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![overlay](medias/quocHuyMedia/S5_projectorOverlay.png)
+![blackholesun](medias/quocHuyMedia/S5_blackHoleSun.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai fais tous ce que j'ai dis que j'allais faire la semaine passée.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Semaine de rattrapage??
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
