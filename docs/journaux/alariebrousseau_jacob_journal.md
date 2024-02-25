@@ -199,21 +199,39 @@ Comme nous ne pourrons pas toujours travailler avec l'éditeur de unity, il nous
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+Cette semaine, j'ai majoritairement travaillé sur améliorer le jeu sur Unity, reglé quelques bugs, ajouté quelques fonctions de qualité de vie et amélioré l'outil de calibration. J'ai également créé un système de sauvegarde pour le jeu, afin que celui-ci puisse retenir des informations lorsqu'on le ferme.
 
+#### Bugfix et changements
+- Réparé un bug qui causait le panel de destruction du système solaire sur le UI si on retirait la statue du trou noir avant les autres statues.
+- Retiré l'état inactif de la table car il ne fonctionne pas avec notre prémisse.
+- Réparé +/- le second soleil, si il est présent suffisement longtemps dans la scène, les planètes commencent à orbiter autours de lui.
+- Changé les conditions pour le déclenchement de la destrucion du système solaire, maintenant les 5 statues doivent être sur le soieil pour que la séquence débute.
+- Changé l'effet du trou noir sur le soleil, maintenant celle-ci consiste à augmenter la masse du soleil afin que toutes les planètes présentement dans la scène soient attirées.
+- Réparé un bug visuel avec l'éruption solaire
+- Ajout d'un système de sauvegarde afin de pouvoir conserver des données de calibration ainsi que certaines statistiques lorsque le jeu est éteint.
+- Optimisation de code pour la détection (environ 700 lignes)
+- Ajout d'un menu où on peut voir les statistiques qui sont comptabilisées par le jeu
+- Ajout de la position présente du trou noir à l'interface de calibration de l'output, comme cela on peut s'en servir comme référence lorsqu'on calibre avec le jeu built.
+- Ajout d'un nouvel effet visuel sur la projection murale lors de la destruction du système solaire
+- Modifications de la position des murs autours de la scène afin d'empêcher les planètes de passer au travers des caméras.
+- Création d'un système donnant des matériels aléatoires aux planètes lors de leurs apparition afin de créer plus de variété.
+- Ajout de bruits lors de la collision entre planètes
+- Changements au spawn des planètes, les chances d'apparitions originales n'ont pas changées, mais maintenant si il y a moins de 30 planètes, il y a une chance sur 10 d'en créer une nouvelle.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/5ee54a43-cfac-4db5-8445-1e236baa6eae)
+Système de sauvegarde
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Cette semaine, je prévoyais majoritairement réparer quelques bugs dans le jeu pour rendre l'expérience meilleure et construire autours de ce que nous avions déjà créé, je pense avoir accompli adéquatement cet objectif. Le seul problème que je pourrai noter serai le second soleil, celui-ci agis de manière très étrange.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -221,20 +239,20 @@ Comme nous ne pourrons pas toujours travailler avec l'éditeur de unity, il nous
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous sommes mainenant bientôt dans sixième semaine et nous n'avons toujours pas de sons avec des bons loops ainsi que les statues.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+La semaine prochaine va majoritairement tourner autours de l'installation physique ainsi qu'encore plus de polish sur le jeu, nous prévoyons avoir des extensions pour la table au courant de la semaine, les vraies statuettes, appliquer le spandex autours de la table et ajouter plus d'éléments à notre décor. La plus grande partie de la job est déjà passée alors maintenant ils ne nous reste qu'à s'assurer que notre expérience sois la plus immersive possible.
 ---
-## Semaine de rattrapage
+## Semaine 6
 ### Résumé des réalisations effectuées
 
 
@@ -271,7 +289,7 @@ Comme nous ne pourrons pas toujours travailler avec l'éditeur de unity, il nous
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6
+## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
 
