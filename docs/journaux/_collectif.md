@@ -9,6 +9,20 @@
 ## Semaine 6
 
 ## Semaine 5
+Cette semaine à été beaucoup plus calme que les deux dernières, ce qui est grandement apprécié, elle a tout de même commencé très lourdement, car c'est Lundi que nous avons reçu notre table, celle-ci portant certains... défauts de fabriquation qu'il va falloir vivre avec.
+
+![tableStudio](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/52310706-1b60-4ba3-83c2-2612e4a6902e)
+<br>
+Pendant la majorité de la semaine, nous avons amélioré ce que nous avions déjà plutôt que créer de nouvelles choses. La raison étant que tout ce que nous voulons dans le jeu est présent, ne nous laissant qu'à améliorer ce que nous avons. La semaine prochaine, nous allons surtout nous concentrer sur l'espace physique du studio, ajouter de l'éclairage, améliorer notre décor, etc. De plus, nous avons enfin quelque chose de plus ou moins stable pour tenir notre kinect.
+![kinect](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/dd21a7dd-a42b-450e-8113-9d8f8cb3f5b2)
+<br>
+Nous avons également obtenu un tableau blanc.
+![whiteBoard](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/be2d95db-3a71-4b5f-b5cc-a552ad74905d)
+![scene](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/087bc689-6bcd-4170-b2fa-d8325a581306)
+
+
+
+
 
 ## Semaine 4
 Cette semaine n'a pas été de tout repos, la maquette de la table est terminée, notre démo à été finalisée, et contient maintenant toutes les fonctionnalitées qui seront présentes dans la version finale, tout ce qui nous reste vraiment à faire, c'est rajouter par dessus ce que nous avons, de nouvelles features ne seronts plus créées à partir de maintenant. Nous devrions recevoir la table lundi ou mardi, ce qu'il nous reste à accomplir est très clair et nous allons être capable de faire ce que nous avons à faire. Nos choses sont maintenant au plafond, et la table est maintenant plus facile à calibrer.
