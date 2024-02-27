@@ -143,8 +143,8 @@ Continuer d'améliorer les parties qui sont moin travaillé et potentiellement p
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
-
+ - instalation de la table et sa calibration
+ - achat de velcro collant pour la table
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
@@ -153,7 +153,7 @@ Continuer d'améliorer les parties qui sont moin travaillé et potentiellement p
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -166,17 +166,11 @@ Continuer d'améliorer les parties qui sont moin travaillé et potentiellement p
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+ décorer la table pour la rendre plus belle
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
