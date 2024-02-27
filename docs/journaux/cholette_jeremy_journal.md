@@ -142,39 +142,33 @@ Pour la semaine prochaine j'aimerais polir les sons que nous avons et également
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai retravailler les loops de chaque sons ainsi que certain effet sur chacun des sons.Je leurs ai tous ajouter un eq pour éviter que les sons émettent un certain crunch. J'ai également retravailler le son du trou blanc au complet pour qu'il se distingue plus des autres sons et aussi créer trois nouveaux sons de "brûlure" pour lorsque les planètes sont troucher par l'éruption solaire ou le soleil. J'ai également monter la table et aider à replacer l'équipement dessous cette dernière pour que tout fonctionne optimalement. Dernièrement nous avons beaucoup fait de bug fixing suite au recontre avec les étudiants qui venaient tester les projets.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tableau des sons](medias/jeremyMedia/sonsTable.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Cette semaine je m'étais fixer comme tâches d'apporter des modifications aux sons suite au feedback reçu sur les sons et également en créer de nouveaux pour certains éléments qui n'avaient pas encore de sons. J'ai pu monter la table en plus et pu aider à la calibrer et la préparer à être dans son setup final. J'ai pu aussi aider à faire du bugfix grâce au visite des étudiants. J'ai donc accompli tout ce que je m'étais fixer pour cette semaine. 
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine je compte continuer à aider à faire du bug fixing ainsi que créer les assets sonores manquant au projet et également retravailler mes sons si nécessaire. Je compte aussi aider à préparer le décor de notre installation ainsi que monter les extensions de la table pour cacher les éléments présent sous cette dernière.
 
 ---
 ## Semaine de rattrapage
