@@ -6,8 +6,8 @@
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
-* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 6](#semaine-6)
+* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
 * [Semaine 9](#semaine-9)
@@ -193,44 +193,43 @@ N/A
 Debug la scène Unity et ajouter autre petits détails si on trouve des idées.
 
 ---
-## Semaine de rattrapage
+## Semaine 6
 ### Résumé des réalisations effectuées
-
+J'ai refais le VFX pour le bug (il s'appelle Pulsar maintenant) pour la troisième fois et j'ai fais un VFX additionnel pour les planètes qui sont brûlées par le soleil.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![NewBug](medias/quocHuyMedia/S6_bugV3.gif)
+![planetBurn](medias/quocHuyMedia/S6_planetBurnup.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai fais ce que j'ai dis que j'allais faire la semaine passée.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Continuer à debug la scène Unity et ajouter autre petits détails si on trouve des idées.
 
 ---
-## Semaine 6
+## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
 
