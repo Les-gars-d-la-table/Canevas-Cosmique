@@ -254,7 +254,7 @@ La semaine prochaine va majoritairement tourner autours de l'installation physiq
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+Cette semaine, je me suis majoritairement concentré à m'assurer que les statuettes soient détectées correctement sur la table, nous ne savons pas exactement pourquoi, mais si le marqueur est imprimé directement dans la statuette, il n'est pas détecté dans le fond de la table. Après quelques jours de tests, nous avons décidé de rechercher des solutions. J'ai commencé par prendre un des marqueurs papier qu'on utilisait pour faire des tests, je l'ai plié pour qu'il prène la forme du dessous de la statuette, il était quand même détecté. Nous avons donc essayé de coller des stickers avec les marqueurs en dessous des statues, ce qui fonctionne, nous allons utiliser cette méthode pour la détection à partir de maintenant. En espérant que ceux-ci soient suffisament résistants. J'ai passé le reste de mon temps à debug le projet sur Unity, j'ai réparé certaines situations dans lesquelles l'éruption solaire ne fonctionnait pas. Réparé des bug avec l'intéraction sur le panneau de configuration. J'ai également été acheté le tissu qui va couvrir la table, finalement, je n'ai pas pris de spandex, parce que la table n'aurait pas pu respirer, j'ai été avec un tissu normalement utilisé pour des microphones, l'air passe au travers, mais il est loin d'être opaque, je pense que ça devrait être correct parce que lorsque les étudiants de première année sont venu voir nos maquettes, ils n'avaient pas l'air de se soucier que la table soit litéralement grande ouverte. Même qu'ils ne remarquaient pas la kinect sous leurs pieds.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
