@@ -254,21 +254,22 @@ La semaine prochaine va majoritairement tourner autours de l'installation physiq
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-Cette semaine, je me suis majoritairement concentré à m'assurer que les statuettes soient détectées correctement sur la table, nous ne savons pas exactement pourquoi, mais si le marqueur est imprimé directement dans la statuette, il n'est pas détecté dans le fond de la table. Après quelques jours de tests, nous avons décidé de rechercher des solutions. J'ai commencé par prendre un des marqueurs papier qu'on utilisait pour faire des tests, je l'ai plié pour qu'il prène la forme du dessous de la statuette, il était quand même détecté. Nous avons donc essayé de coller des stickers avec les marqueurs en dessous des statues, ce qui fonctionne, nous allons utiliser cette méthode pour la détection à partir de maintenant. En espérant que ceux-ci soient suffisament résistants. J'ai passé le reste de mon temps à debug le projet sur Unity, j'ai réparé certaines situations dans lesquelles l'éruption solaire ne fonctionnait pas. Réparé des bug avec l'intéraction sur le panneau de configuration. J'ai également été acheté le tissu qui va couvrir la table, finalement, je n'ai pas pris de spandex, parce que la table n'aurait pas pu respirer, j'ai été avec un tissu normalement utilisé pour des microphones, l'air passe au travers, mais il est loin d'être opaque, je pense que ça devrait être correct parce que lorsque les étudiants de première année sont venu voir nos maquettes, ils n'avaient pas l'air de se soucier que la table soit litéralement grande ouverte. Même qu'ils ne remarquaient pas la kinect sous leurs pieds.
+Cette semaine, je me suis majoritairement concentré à m'assurer que les statuettes soient détectées correctement sur la table, nous ne savons pas exactement pourquoi, mais si le marqueur est imprimé directement dans la statuette, il n'est pas détecté dans le fond de la table. Après quelques jours de tests, nous avons décidé de rechercher des solutions. J'ai commencé par prendre un des marqueurs papier qu'on utilisait pour faire des tests, je l'ai plié pour qu'il prène la forme du dessous de la statuette, il était quand même détecté. Nous avons donc essayé de coller des stickers avec les marqueurs en dessous des statues, ce qui fonctionne, nous allons utiliser cette méthode pour la détection à partir de maintenant. En espérant que ceux-ci soient suffisament résistants. J'ai passé le reste de mon temps à debug le projet sur Unity, j'ai réparé certaines situations dans lesquelles l'éruption solaire ne fonctionnait pas. Réparé des bug avec l'intéraction sur le panneau de configuration. J'ai également été acheté le tissu qui va couvrir la table, finalement, je n'ai pas pris de spandex, parce que la table n'aurait pas pu respirer, j'ai été avec un tissu normalement utilisé pour des microphones, l'air passe au travers, mais il est loin d'être opaque, je pense que ça devrait être correct parce que lorsque les étudiants de première année sont venu voir nos maquettes, ils n'avaient pas l'air de se soucier que la table soit litéralement grande ouverte. Même qu'ils ne remarquaient pas la kinect sous leurs pieds. J'ai terminé la semaine en écrivant des logs de scientifiques travaillant sur la table, ils contiennent des suggestions de choses à faire sur la table ainsi que l'histoire des scientifiques, et pourquoi leurs pause est aussi longue. Les logs font un total de 2100 mots pour le moment, mais je pense en rajouter plus parce que j'ai établi un élément dans l'histoire qui n'est jamais réelement utilisé.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![statueDetected](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/1586ac1a-b890-4752-b819-6465bcc6d595)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Depuis la semaine dernière, je n'ai plus vraiment d'objectif fixe, comme notre projet est déjà complet et fonctionnel, je ne fais que rajouter du plus aux endroits où je peux en rajouter.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -276,18 +277,18 @@ Cette semaine, je me suis majoritairement concentré à m'assurer que les statue
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+La plupart de nos sons sont finaux, il ne reste qu'à les normalizer et avoir un mastering qui fait du sens, à part cela, vu que nos statues fonctionnent maintenant, on devrait avoir les vraies au courant de la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+C'est drôle à dire comme ça, mais mon défi c'est pas mal de me trouver quelque-chose à faire.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
