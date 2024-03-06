@@ -112,7 +112,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 * Audio
     * 2 haut-parleurs
-    * 4 fils XLR 3 conducteurs de 15' (M->F)
+    * 5 fils XLR 3 conducteurs de 15' (M->F)
     * 1 carte de son
 
 * Vidéo
