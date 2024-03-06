@@ -101,7 +101,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 
 * Table
     * Matériaux: Bois, acier, Acrylique, Spandex
-    * 48" x 36", 30" de hauteur
+    * 38 x 26", 30" de hauteur
 * Statuettes imprimées en 3D
 * Notepad contenant les infos pour l'opération de la table.
 
