@@ -49,19 +49,19 @@ L'intéracteur entre dans une salle contenant une table et quelques étranges st
 ## Scénario, scénarimage ou document audio/visuel
 
 <p align="center">
-<img align="center" src='medias/scenarimage1.png' width='500'>
+<img align="center" src='medias/slide1.png' width='500'>
 
-<img align="center" src='medias/scenarimage2.png' width='500'>
+<img align="center" src='medias/slide2.png' width='500'>
 
-<img align="center" src='medias/scenarimage3.png' width='500'>
+<img align="center" src='medias/slide3.png' width='500'>
 
-<img align="center" src='medias/scenarimage4.png' width='500'>
+<img align="center" src='medias/slide4.png' width='500'>
 
-<img align="center" src='medias/scenarimage5.png' width='500'>
+<img align="center" src='medias/slide5.png' width='500'>
 
-<img align="center" src='medias/scenarimage6.png' width='500'>
+<img align="center" src='medias/slide6.png' width='500'>
 
-<img align="center" src='medias/scenarimage7.png' width='500'>
+<img align="center" src='medias/slide7.png' width='500'>
 
 </p>
 
@@ -91,7 +91,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 ### Plantation 
 
 ![cartographie](medias/plantationGrandStudioFinal.png)
-![cartographie](medias/plantationPlan.png)
+![cartographie](medias/plantationFinal.png)
 
 ### Schéma de branchement 
 
