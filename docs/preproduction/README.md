@@ -100,7 +100,7 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 ## Matériel de scénographie requis
 
 * Table
-    * Matériaux: Bois, Aluminium, Acrylique, Spandex
+    * Matériaux: Bois, acier, Acrylique, Spandex
     * 48" x 36", 30" de hauteur
 * Statuettes imprimées en 3D
 * Notepad contenant les infos pour l'opération de la table.
@@ -143,10 +143,8 @@ Univers contemplatif d'éléments reliés à l'espace avec plusieurs formes et c
 * [Touch Designer](https://derivative.ca/)
 * [Unity 2022.3.8f1](https://unity.com/)
 * [Autodesk Maya](https://www.autodesk.com/ca-fr)
-* [VCV Rack](https://vcvrack.com/)
-* [OBS](https://obsproject.com)
+* [Blender](https://www.blender.org/)
 * [Reaper](https://www.reaper.fm/download.php)
-* [MadMapper](https://madmapper.com/madmapper/software)
 
 ## Ressources humaines requises
 
