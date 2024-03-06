@@ -171,44 +171,38 @@ Cette semaine je m'étais fixer comme tâches d'apporter des modifications aux s
 Pour la semaine prochaine je compte continuer à aider à faire du bug fixing ainsi que créer les assets sonores manquant au projet et également retravailler mes sons si nécessaire. Je compte aussi aider à préparer le décor de notre installation ainsi que monter les extensions de la table pour cacher les éléments présent sous cette dernière.
 
 ---
-## Semaine de rattrapage
+## Semaine 6
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai créer de nouveaux sons lorsque les différentes statues interagissent avec le soleil ainsi que des sons d'explosion, de collision et de désintégration pour les planètes. J'ai également fait imprimer les autocollants qui vont aller sous les statuettes pour la détection. J'ai commencer à exporter les sons finaux avec leurs loops et leurs niveaux normaliser.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tableau des sons](medias/jeremyMedia/autocollants.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ Cette semaine j'ai pu créer de nouveaux sons pour les éléments qui interagissent avec le soleil mais je n'ai pas eu le temps de tout normaliser et looper ceux qui le necessitait.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Durant la semaine de rattrapage je compte terminer les sons sur lesquelles je travaillais et tous les exporter avec leur loop ainsi que le niveau normaliser.
 
 ---
-## Semaine 6
+## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
 
