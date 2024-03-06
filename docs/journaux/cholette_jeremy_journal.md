@@ -173,7 +173,7 @@ Pour la semaine prochaine je compte continuer à aider à faire du bug fixing ai
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-Cette semaine j'ai créer de nouveaux sons lorsque les différentes statues interagissent avec le soleil ainsi que des sons d'explosion, de collision et de désintégration pour les planètes. J'ai également fait imprimer les autocollants qui vont aller sous les statuettes pour la détection. J'ai commencer à exporter les sons finaux avec leurs loops et leurs niveaux normaliser.
+Cette semaine j'ai créé de nouveaux sons lorsque les différentes statues interagissent avec le soleil ainsi que des sons d'explosion, de collision et de désintégration pour les planètes. J'ai également fait imprimer les autocollants qui vont aller sous les statuettes pour la détection. J'ai commencé à exporter les sons finaux avec leurs loops et leurs niveaux normaliser.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -187,7 +187,7 @@ Cette semaine j'ai créer de nouveaux sons lorsque les différentes statues inte
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Cette semaine j'ai pu créer de nouveaux sons pour les éléments qui interagissent avec le soleil mais je n'ai pas eu le temps de tout normaliser et looper ceux qui le necessitait.
+ Cette semaine j'ai pu créer de nouveaux sons pour les éléments qui interagissent avec le soleil mais je n'ai pas eu le temps de tout normaliser et looper ceux qui le necessitaient.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -199,7 +199,7 @@ Cette semaine j'ai créer de nouveaux sons lorsque les différentes statues inte
 
 
 ### Défis pour la prochaine semaine
-Durant la semaine de rattrapage je compte terminer les sons sur lesquelles je travaillais et tous les exporter avec leur loop ainsi que le niveau normaliser.
+Durant la semaine de rattrapage je compte terminer les sons sur lesquelles je travaillais et tous les exporter avec leur loop ainsi que le niveau normalisé. Je vais aussi travailler sur les éléments secret qui peuvent apparaitre dans la scène.
 
 ---
 ## Semaine de rattrapage
