@@ -292,7 +292,12 @@ C'est drôle à dire comme ça, mais mon défi c'est pas mal de me trouver quelq
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+Cette semaine, j'ai majoritairement travaillé sur de la documentation et un peu de bugfixing dans Unity.
+- Plus de documentation sur la détection de marqueurs, images ne sont pas encore présentes.
+- Réparation de bugs par rapport à l'éruption solaire (Ne pouvait pas détruire les planètes si elles étaient dans d'autres effets)
+- Réparation de problème avec la séquence de destruction (apparement quelqu'un a supprimé un objet important sans le savoir)
+- Mise à jour de la préproduction
+C'est à peu près tout ce que j'ai fait, je n'ai pas eu beaucoup de choses à faire cette semaine alors j'ai majoritairement pris du repos.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -300,13 +305,13 @@ C'est drôle à dire comme ça, mais mon défi c'est pas mal de me trouver quelq
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'avais pas réelement de tâches prévues pour cette semaine, j'ai encore une fois simplement recherché des bugs à réparer.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -314,18 +319,18 @@ C'est drôle à dire comme ça, mais mon défi c'est pas mal de me trouver quelq
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Une erreur de ma part a été de laisser un fichier sans le sauvegarder sur le laptop dans le studio, le laptop ne s'était jamais éteint avant donc je pensais pouvoir lui faire confiance, mais je soupçonne que le CCTI l'aille forcé à redémarrer. (J'adore le CCTI) nous avons maintenant un problème avec la détection de nos marqueurs, il y a une dead zone dans un des coins de la table.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+Réparer la deadzone mentionnée plus haut, déplacer l'ordinateur dans la salle des matrices et produire la vidéo sur notre projet.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
@@ -362,9 +367,3 @@ C'est drôle à dire comme ça, mais mon défi c'est pas mal de me trouver quelq
 
 
 ### Défis pour la prochaine semaine
-
-
-## Semaine 8
-
-
-## Semaine 9
