@@ -231,39 +231,41 @@ Continuer à debug la scène Unity et ajouter autre petits détails si on trouve
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+J'ai essayer de trouver des bugs dans la scène finale mais je n'ai rien trouvé d'intéressant.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![EmuOtori](medias/quocHuyMedia/SR_EmuOtori.PNG)
 
-
+Je n'ai pas d'images en lien avec le debugging alors voici un model 3D sans rapport.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je n'ai pas trouvé de bug majeur.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer à debugger.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Bonne question.
 
 ---
 ## Semaine 7
