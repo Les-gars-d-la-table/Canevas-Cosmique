@@ -139,46 +139,52 @@ Matériaux random dans unity.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+- Amélioration statuettes
 
+- creation de statuettes
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![ici est une description de l'image](medias/mikaelMedia/statue_semaine_4.PNG)
-statue_semaine_4
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que les statuettes sont presque fini et je pourrai aider mes coéquipiers pour le reste du projet
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+
+Réussir à fixer le projecteur
 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
 
-
+- 3 nouvelles planètes
+- projecteur boitier
+- 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
