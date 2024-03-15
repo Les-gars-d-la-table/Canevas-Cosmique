@@ -187,71 +187,76 @@ Réussir à fixer le projecteur au sol
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![projecteur](medias/mikaelMedia/projecteur.png)
+
+<img src='medias/mikaelMedia/projecteur.png' width='400'>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que j'ai réglé le problème du projecteur qui bougeait et j'ai aussi créer des nouvelles planètes pour rajouter de la diversité a l'écran.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+N/A
 ### Défis pour la prochaine semaine
+
+rendre la table plus longue.
 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Création des extensions de tables.
+- Finalisation des statuettes.
+- Impression des statuettes.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+<img src='medias/mikaelMedia/table.jpg' width='400'>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parce que maintenant nous pouvons mettre les statuettes à quelques pars qui ne estn'sont pas sur la projection et les statuettes fonctionnent sur la table.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
 
