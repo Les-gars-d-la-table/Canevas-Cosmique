@@ -76,8 +76,8 @@ N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -106,8 +106,8 @@ Installer l'équipement au plafond.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -121,8 +121,8 @@ N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -163,8 +163,8 @@ N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -176,7 +176,7 @@ N/A
 
 ### Défis pour la prochaine semaine
 
-Réussir à fixer le projecteur
+Réussir à fixer le projecteur au sol
 
 ---
 ## Semaine 5
@@ -184,9 +184,10 @@ Réussir à fixer le projecteur
 
 - 3 nouvelles planètes
 - projecteur boitier
-- 
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![projecteur](medias/mikaelMedia/projecteur.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
