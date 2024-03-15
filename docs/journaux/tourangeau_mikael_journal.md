@@ -6,8 +6,8 @@
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
-* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 6](#semaine-6)
+* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
 * [Semaine 9](#semaine-9)
@@ -182,7 +182,7 @@ Réussir à fixer le projecteur au sol
 ## Semaine 5
 ### Résumé des réalisations effectuées
 
-- 3 nouvelles planètes
+
 - projecteur boitier
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -199,7 +199,7 @@ Réussir à fixer le projecteur au sol
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Parce que j'ai réglé le problème du projecteur qui bougeait et j'ai aussi créer des nouvelles planètes pour rajouter de la diversité a l'écran.
+Parce que j'ai réglé le problème du projecteur qui bougeait 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A
@@ -222,6 +222,45 @@ N/A
 rendre la table plus longue.
 
 ---
+
+## Semaine 6
+### Résumé des réalisations effectuées
+
+- Création de nouvelles planètes
+### Image d'une réalisation dont tu es la ou le plus fier
+
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+ 
+j'ai créer des nouvelles planètes pour rajouter de la diversité a l'écran.
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+
+---
+
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 - Création des extensions de tables.
@@ -261,43 +300,7 @@ N/A
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6
-### Résumé des réalisations effectuées
 
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
----
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
