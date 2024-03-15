@@ -219,7 +219,7 @@ N/A
 N/A
 ### Défis pour la prochaine semaine
 
-rendre la table plus longue.
+Aucun pour l'instant.
 
 ---
 
@@ -243,21 +243,23 @@ rendre la table plus longue.
 J'ai créer des nouvelles planètes pour rajouter de la diversité a l'écran.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+N/A
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
-
+N/A
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+N/A
 ### Défis pour la prochaine semaine
+
+rendre la table plus longue.
 
 ---
 
@@ -303,40 +305,45 @@ N/A
 
 ## Semaine 7
 ### Résumé des réalisations effectuées
+-Impression fini
 
+-Modification soleil et éruption.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+<img src='medias/mikaelMedia/impression.jpg' width='400'>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ L'impression se passe bien et nous pouvons maintenant parfaitement utiliser notre oeuvre.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+N/A
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+N/A
 
 ### Défis pour la prochaine semaine
-
+La chaleur de notre projet quand il y a beaucoup de personnes.
 
 ## Semaine 8
 
