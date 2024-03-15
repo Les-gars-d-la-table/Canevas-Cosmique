@@ -229,7 +229,7 @@ rendre la table plus longue.
 - Création de nouvelles planètes
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![](medias/mikaelMedia/planetes.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -240,7 +240,7 @@ rendre la table plus longue.
 
 #### Décrivez pourquoi.
  
-j'ai créer des nouvelles planètes pour rajouter de la diversité a l'écran.
+J'ai créer des nouvelles planètes pour rajouter de la diversité a l'écran.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
