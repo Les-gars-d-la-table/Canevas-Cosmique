@@ -334,7 +334,7 @@ Réparer la deadzone mentionnée plus haut, déplacer l'ordinateur dans la salle
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+Cette semaine n'a pas été très demandante, nous avons corrigé quelques problèmes, arrangés notre scène et avons créé la version finale de notre jeu, je n'ai pas fait grand chose par moi même parce que j'avais déjà terminé mes tâches, je me suis donc concentrer sur m'assurer que le projet est complet et optimisé.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -342,20 +342,20 @@ Réparer la deadzone mentionnée plus haut, déplacer l'ordinateur dans la salle
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Le projet est terminé. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -367,3 +367,4 @@ Réparer la deadzone mentionnée plus haut, déplacer l'ordinateur dans la salle
 
 
 ### Défis pour la prochaine semaine
+Exposer le projet.
