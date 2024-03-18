@@ -5,10 +5,11 @@
 ## Semaine 8
 
 ## Semaine 7
-Nous avons enfin reçu les extensions de notre table, nous avons également pu poser le tissu par dessus celle-ci. La semaine prochaine va se concentrer sur les étapes finales du projet, donc la vidéo de présentation et les retouches finales du projet.
-![table_final](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/75fe09c7-b219-4697-a2a9-804e789ba878)
+Les statuettes ont été reçu, le projet a été optimisé et la table a été sécurisée, la scène a également été complétée, Nous sommes maintenant prêt pour l'exposition.
 
 ## Semaine 6
+Nous avons enfin reçu les extensions de notre table, nous avons également pu poser le tissu par dessus celle-ci. La semaine prochaine va se concentrer sur les étapes finales du projet, donc la vidéo de présentation et les retouches finales du projet.
+![table_final](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/75fe09c7-b219-4697-a2a9-804e789ba878)
 
 ## Semaine 5
 Cette semaine à été beaucoup plus calme que les deux dernières, ce qui est grandement apprécié, elle a tout de même commencé très lourdement, car c'est Lundi que nous avons reçu notre table, celle-ci portant certains... défauts de fabriquation qu'il va falloir vivre avec.
