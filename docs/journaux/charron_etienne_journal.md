@@ -147,8 +147,6 @@ Continuer d'améliorer les parties qui sont moin travaillé et potentiellement p
  - achat de velcro collant pour la table
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
-
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
@@ -172,86 +170,62 @@ Continuer d'améliorer les parties qui sont moin travaillé et potentiellement p
 ### Défis pour la prochaine semaine
  décorer la table pour la rendre plus belle
 ---
+
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
-
+- impressions de collants a mettre en dessous des statues
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
+![image des étiquettes](medias/etienneMedia/labels.jpg)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
+ Il ne reste plus beaucoup de choses à faire
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Décorer l'oeuvre
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
-
+- dessins sur tableau qui résume le projet
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
+![image de l'éruption solaire en travail](medias/etienneMedia/tableau.jpg)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ ça rend l'oeuvre plus belle et plus compréhensible
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Filmer et faire la bande annonce
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
-
+- filmer
+- montage vidéo de la bande annonce
+- filmer pour making off
 ### Image d'une réalisation dont tu es la ou le plus fier
-
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
