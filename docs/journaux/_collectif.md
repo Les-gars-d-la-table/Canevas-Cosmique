@@ -6,6 +6,7 @@
 
 ## Semaine 7
 Les statuettes ont été reçu, le projet a été optimisé et la table a été sécurisée, la scène a également été complétée, Nous sommes maintenant prêt pour l'exposition.
+![réunion avec l'équipe](medias/tableComplet.jpg)
 
 ## Semaine 6
 Nous avons enfin reçu les extensions de notre table, nous avons également pu poser le tissu par dessus celle-ci. La semaine prochaine va se concentrer sur les étapes finales du projet, donc la vidéo de présentation et les retouches finales du projet.
