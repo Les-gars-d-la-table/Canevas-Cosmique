@@ -226,37 +226,24 @@ Filmer et faire la bande annonce
 - montage vidéo de la bande annonce
 - filmer pour making off
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+https://youtu.be/5xu6JZipWec
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
+ Nous avons réussis a filmer et faire le montage de la bande annonce en une semaine et nous avons déjà commencer a filmer notre making off
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
-
+Filmer plus de scene pour le making off
 ## Semaine 8
 
 
