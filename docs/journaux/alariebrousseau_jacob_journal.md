@@ -337,7 +337,9 @@ Réparer la deadzone mentionnée plus haut, déplacer l'ordinateur dans la salle
 Cette semaine n'a pas été très demandante, nous avons corrigé quelques problèmes, arrangés notre scène et avons créé la version finale de notre jeu, je n'ai pas fait grand chose par moi même parce que j'avais déjà terminé mes tâches, je me suis donc concentrer sur m'assurer que le projet est complet et optimisé.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![BtnReset](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/ca604306-6b33-4435-9ca4-3330fc6fa584)
+<br>
+(C'est pas mal la seule affaire que j'ai fait cette semaine, c'est un bouton qui reset la save quand tu le clique.)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
