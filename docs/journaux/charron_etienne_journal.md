@@ -226,8 +226,7 @@ Filmer et faire la bande annonce
 - montage vidéo de la bande annonce
 - filmer pour making off
 ### Image d'une réalisation dont tu es la ou le plus fier
-![premier design de couverture](https://youtu.be/5xu6JZipWec)
-
+https://youtu.be/5xu6JZipWec
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
