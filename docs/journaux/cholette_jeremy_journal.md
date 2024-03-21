@@ -205,78 +205,65 @@ Durant la semaine de rattrapage je compte terminer les sons sur lesquelles je tr
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
+Durant la semaine de rattrapage j'ai terminé les sons et exporter les loops avec des niveaux normalisés. J'ai également commencé à modéliser mon élément secret qui apparaîtrait de façon aléatoire dans le fond de la scène. De plus nous avons commencé à faire du débugging de notre projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tableau des sons](medias/jeremyMedia/sonsFini.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai accompli tout ce que je m'étais fixé comme objectif cette semaine et maintenant il ne nous reste plus beaucoup de tâches avant d'avoir la version finale de notre projet pour l'exposition.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+La semaine prochaine j'aimerais finir mon modèle 3D et terminer de faire le débugging pour avoir une version finale. J'aimerais également cacher les fils qui trainent derrière la table.
 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai terminé mon modèle 3D et travailler sur l'affiche du comité communication. J'ai également caché les câbles qui trainaient derrière la table et terminaient de faire du débugging avec le reste de l'équipe. J'ai ajusté les volumes sonores des objets grâce à un mixer sur Unity pour que tous les sons soient égaux.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tableau des sons](medias/jeremyMedia/secret.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Les tâches sont toutes terminer et nous avons la version finale de notre projet. J'ai réussi à toute terminer mes tâches et nous sommes donc prêts à exposer notre projet pour la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Présenter le projet et le démonter à la fin de la semaine.
 
 
 ## Semaine 8
-
+Durant la semaine de présentation, nous nous sommes assignées des journées pour venir surveiller le projet. Je viens donc le lundi au vernissage toute la journée, le mercredi et le vendredi pour démonter.
 
 ## Semaine 9
