@@ -38,7 +38,57 @@
 	</header>
 
 	<main>
-		<section class="hero banniere"><img src="medias/banniere.png"></section>
+		<section class="hero banniere" style="position: relative; width: 100%; height: auto; overflow: hidden;">
+			<!-- Image affichée lors du chargement -->
+			<img src="medias/banniere.png" id="videoPlaceholderImg" style="width: 100%; height: auto; display: block; position: absolute; top: 0; left: 0; z-index: 2;">
+		
+			<!-- Element vidéo de la banière qui substitue l'image -->
+			<video id="monVideo" preload="none" style="width: 100%; height: auto; position: relative; z-index: 1;" playsinline loop muted autoplay>
+				<source data-src="medias/banniere_1200x360-5sec.mp4" type="video/mp4">
+			</video>
+		</section>
+		
+		<script>
+		document.addEventListener("DOMContentLoaded", function() {
+		  var monVideo = document.querySelector("#monVideo");
+		  var placeholderImage = document.getElementById('videoPlaceholderImg');
+		
+		  if ("IntersectionObserver" in window) {
+			var monVideoObserver = new IntersectionObserver(function(entries, observer) {
+			  entries.forEach(function(entry) {
+				if (entry.isIntersecting) {
+				  for (var source in entry.target.children) {
+					var videoSource = entry.target.children[source];
+					if (typeof videoSource.tagName === "string" && videoSource.tagName === "SOURCE") {
+					  videoSource.src = videoSource.dataset.src; // Assign the actual source from data-src
+					}
+				  }
+		
+				  entry.target.load(); // Load the video
+				  entry.target.play().then(() => {
+					placeholderImage.style.display = 'none'; // Hide the placeholder image once the video starts playing
+				  }).catch(e => {
+					  console.log('Autoplay failed:', e);
+				  });
+				  monVideoObserver.unobserve(entry.target); // Stop observing the video once it starts playing
+				}
+			  });
+			});
+		
+			monVideoObserver.observe(monVideo);
+		  } else {
+			// Fallback for browsers without Intersection Observer support
+			var videoSource = monVideo.querySelector("source");
+			videoSource.src = videoSource.dataset.src;
+			monVideo.load();
+			monVideo.play().then(() => {
+				placeholderImage.style.display = 'none'; // Hide the placeholder image once the video starts playing
+			}).catch(e => {
+				console.log('Autoplay failed:', e);
+			});
+		  }
+		});
+		</script>
 		<section class="presentation_projet">
 			<h1>Canevas cosmique</h1>
 			<div class="container_cols reverse">
