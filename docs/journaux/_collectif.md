@@ -3,6 +3,8 @@
 ## Semaine 9
 
 ## Semaine 8
+Nous avons exposé le projet au public du lundi au jeudi, nous avons ensuite démonté le projet, Jacob a hérité de la table (sans les extensions). Cette photo a été prise durant le démontage, juste avant que la table soit démontée. 
+![garsdlatable](https://github.com/Les-gars-d-la-table/Canevas-Cosmique/assets/93773873/e35e8eb9-7914-4fd1-bf1a-f8811dcaf05c)
 
 ## Semaine 7
 Les statuettes ont été reçu, le projet a été optimisé et la table a été sécurisée, la scène a également été complétée, Nous sommes maintenant prêt pour l'exposition.
